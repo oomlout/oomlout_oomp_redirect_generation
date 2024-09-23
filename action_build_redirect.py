@@ -1,12 +1,17 @@
-
+import os
 
 
 def main(**kwargs):
 
     import action_build_oomp
-    action_build_oomp.main(**kwargs)
+    #action_build_oomp.main(**kwargs)
 
     file_oomp_pickle = "temporary/parts.pickle"
+    #make it if it doesn't exist in one line
+    
+    if not os.path.exists(file_oomp_pickle):
+        action_build_oomp.main(**kwargs)
+
     directory_oomp_redirect = "redirect"
 
     #import oomp from the pickle file
@@ -15,7 +20,6 @@ def main(**kwargs):
         oomp = pickle.load(file)
 
     #build the redirect files
-    import os
     if not os.path.exists(directory_oomp_redirect):
         os.mkdir(directory_oomp_redirect)
 
