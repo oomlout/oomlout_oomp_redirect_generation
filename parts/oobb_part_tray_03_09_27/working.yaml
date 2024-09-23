@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 03_09_27
+description_main_capital: 03 09.27
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 03_09_27
+description_only_numbers: 030927
+description_only_numbers_short: 31k
+description_or_color: 31k
+description_or_color_upper: 31K
+directory: parts/oobb_part_tray_03_09_27
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_09_27
+id: oobb_part_tray_03_09_27
+id_no_class: part_tray_03_09_27
+id_no_size: 03_09_27
+id_no_type: tray_03_09_27
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_09_27
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_03_09_27](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_09_27)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_09_27)<br>[Oobb
+  Part Tray 03 09 27](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_09_27)<br><br>'
+markdown_short: '[oobb_part_tray_03_09_27](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_09_27)<br><br>'
+md5: 3bcaa7bbdca58d8abd6698dec9f1d02f
+md5_10: 3bcaa7bbdc
+md5_10_upper: 3BCAA7BBDC
+md5_5: 3bcaa
+md5_5_upper: 3BCAA
+md5_6: 3bcaa7
+md5_6_alpha: 2bzjb
+md5_6_alpha_upper: 2BZJB
+md5_6_upper: 3BCAA7
+name: Oobb Part Tray 03 09 27
+name_no_class: Part Tray 03 09 27
+name_no_size: 03 09 27
+name_no_size_short: 03 09 27
+name_no_type: Tray 03 09 27
+oomp_key: oomp_oobb_part_tray_03_09_27
+oomp_word: bear cherries guitar
+oomp_word_emoji: ':bear: :cherries: :guitar:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':cherries:'
+- ':guitar:'
+oomp_word_list:
+- bear
+- cherries
+- guitar
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

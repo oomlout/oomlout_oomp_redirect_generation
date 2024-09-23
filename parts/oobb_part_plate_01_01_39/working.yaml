@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 01_01_39
+description_main_capital: 01 01.39
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 01_01_39
+description_only_numbers: 010139
+description_only_numbers_short: 10k
+description_or_color: 10k
+description_or_color_upper: 10K
+directory: parts/oobb_part_plate_01_01_39
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_39
+id: oobb_part_plate_01_01_39
+id_no_class: part_plate_01_01_39
+id_no_size: 01_01_39
+id_no_type: plate_01_01_39
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_39
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_01_01_39](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_39)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_39)<br>[Oobb
+  Part Plate 01 01 39](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_39)<br><br>'
+markdown_short: '[oobb_part_plate_01_01_39](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_39)<br><br>'
+md5: 0294a1c88221bde3fc146ed153fab176
+md5_10: 0294a1c882
+md5_10_upper: 0294A1C882
+md5_5: 0294a
+md5_5_upper: 0294A
+md5_6: 0294a1
+md5_6_alpha: 3mht
+md5_6_alpha_upper: 3MHT
+md5_6_upper: 0294A1
+name: Oobb Part Plate 01 01 39
+name_no_class: Part Plate 01 01 39
+name_no_size: 01 01 39
+name_no_size_short: 01 01 39
+name_no_type: Plate 01 01 39
+oomp_key: oomp_oobb_part_plate_01_01_39
+oomp_word: blush microscope trophy
+oomp_word_emoji: ':blush: :microscope: :trophy:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':microscope:'
+- ':trophy:'
+oomp_word_list:
+- blush
+- microscope
+- trophy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

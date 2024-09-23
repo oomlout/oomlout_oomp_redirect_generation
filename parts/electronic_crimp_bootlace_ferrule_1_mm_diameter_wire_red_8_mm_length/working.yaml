@@ -1,0 +1,86 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 8_mm_length
+description_main_capital: 8 mm Length
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 8_MM_LENGTH
+description_only_numbers: '8'
+description_only_numbers_short: '8'
+description_or_color: R8
+description_or_color_upper: R8
+directory: parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length
+id: electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length
+id_no_class: crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length
+id_no_size: red_8_mm_length
+id_no_type: 1_mm_diameter_wire_red_8_mm_length
+kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length)<br>[r8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length)<br>[Electronic
+    Crimp Bootlace Ferrule 1 Mm Diameter Wire Red 8 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length)<br><br>'
+markdown_short: '[electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length)<br><br>'
+md5: c16ec894e6af170a266bdc296fa81718
+md5_10: c16ec894e6
+md5_10_upper: C16EC894E6
+md5_5: c16ec
+md5_5_upper: C16EC
+md5_6: c16ec8
+md5_6_alpha: 7jphk
+md5_6_alpha_upper: 7JPHK
+md5_6_upper: C16EC8
+name: Electronic Crimp Bootlace Ferrule 1 Mm Diameter Wire Red 8 Mm Length
+name_no_class: Crimp Bootlace Ferrule 1 Mm Diameter Wire Red 8 Mm Length
+name_no_size: Red 8 Mm Length
+name_no_size_short: Red 8 Mm Length
+name_no_type: 1 Mm Diameter Wire Red 8 Mm Length
+oomp_key: oomp_electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length
+oomp_word: doughnut new_moon apple
+oomp_word_emoji: ':doughnut: :new_moon: :apple:'
+oomp_word_emoji_list:
+- ':doughnut:'
+- ':new_moon:'
+- ':apple:'
+oomp_word_list:
+- doughnut
+- new_moon
+- apple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: r8
+short_code_upper: R8
+size: 1_mm_diameter_wire
+size_capital: 1 mm Diameter Wire
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1'
+size_only_numbers_no_zeros: '1'
+size_upper: 1_MM_DIAMETER_WIRE
+type: crimp_bootlace_ferrule
+type_capital: Crimp Bootlace Ferrule
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRIMP_BOOTLACE_FERRULE

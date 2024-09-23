@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '01_01_66'
+description_main_capital: 01 01.66
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '01_01_66'
+description_only_numbers: '010166'
+description_only_numbers_short: 10k
+description_or_color: 10k
+description_or_color_upper: 10K
+directory: parts/oobb_part_plate_01_01_66
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_66
+id: oobb_part_plate_01_01_66
+id_no_class: part_plate_01_01_66
+id_no_size: '01_01_66'
+id_no_type: plate_01_01_66
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_66
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_01_01_66](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_66)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_66)<br>[Oobb
+  Part Plate 01 01 66](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_66)<br><br>'
+markdown_short: '[oobb_part_plate_01_01_66](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_66)<br><br>'
+md5: 38d12bb4d8ab24ea08d5dcc22a20a073
+md5_10: 38d12bb4d8
+md5_10_upper: 38D12BB4D8
+md5_5: 38d12
+md5_5_upper: 38D12
+md5_6: 38d12b
+md5_6_alpha: 27t4b
+md5_6_alpha_upper: 27T4B
+md5_6_upper: 38D12B
+name: Oobb Part Plate 01 01 66
+name_no_class: Part Plate 01 01 66
+name_no_size: 01 01 66
+name_no_size_short: 01 01 66
+name_no_type: Plate 01 01 66
+oomp_key: oomp_oobb_part_plate_01_01_66
+oomp_word: frog pear cloud
+oomp_word_emoji: ':frog: :pear: :cloud:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':pear:'
+- ':cloud:'
+oomp_word_list:
+- frog
+- pear
+- cloud
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

@@ -1,0 +1,87 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: standalone
+description_main_capital: Standalone
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: STANDALONE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
+id: computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
+id_no_class: power_supply_microsoft_surface_standalone_microsoft_model_1625
+id_no_size: standalone_microsoft_model_1625
+id_no_type: microsoft_surface_standalone_microsoft_model_1625
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
+manufacturer: microsoft
+manufacturer_capital: Microsoft
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_upper: MICROSOFT
+manufacturers: []
+markdown_full: '[computer_power_supply_microsoft_surface_standalone_microsoft_model_1625](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625)<br>[Computer
+    Power Supply Microsoft Surface Standalone Microsoft Model 1625](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625)<br><br>'
+markdown_short: '[computer_power_supply_microsoft_surface_standalone_microsoft_model_1625](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625)<br><br>'
+md5: f4a0c426ccc024e5947a84ad69c5dcd1
+md5_10: f4a0c426cc
+md5_10_upper: F4A0C426CC
+md5_5: f4a0c
+md5_5_upper: F4A0C
+md5_6: f4a0c4
+md5_6_alpha: 9jmbo
+md5_6_alpha_upper: 9JMBO
+md5_6_upper: F4A0C4
+name: Computer Power Supply Microsoft Surface Standalone Microsoft Model 1625
+name_no_class: Power Supply Microsoft Surface Standalone Microsoft Model 1625
+name_no_size: Standalone Microsoft Model 1625
+name_no_size_short: Standalone Microsoft Model 1625
+name_no_type: Microsoft Surface Standalone Microsoft Model 1625
+oomp_key: oomp_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
+oomp_word: three ring cookie
+oomp_word_emoji: ':three: :ring: :cookie:'
+oomp_word_emoji_list:
+- ':three:'
+- ':ring:'
+- ':cookie:'
+oomp_word_list:
+- three
+- ring
+- cookie
+part_number: model_1625
+part_number_capital: Model 1625
+part_number_first_letter: m
+part_number_first_letter_upper: M
+part_number_upper: MODEL_1625
+short_code: ''
+short_code_upper: ''
+size: microsoft_surface
+size_capital: Microsoft Surface
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MICROSOFT_SURFACE
+type: power_supply
+type_capital: Power Supply
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: POWER_SUPPLY

@@ -1,0 +1,92 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: A closed loop stepper motor controller
+description_extra: closed_loop
+description_extra_capital: Closed Loop
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CLOSED_LOOP
+description_main: stepper_motor
+description_main_capital: Stepper Motor
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: STEPPER_MOTOR
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+id: electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+id_no_class: breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+id_no_size: stepper_motor_closed_loop_makerbase_mks_servo42c
+id_no_type: nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+manufacturer: makerbase
+manufacturer_capital: Makerbase
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_upper: MAKERBASE
+manufacturers: []
+markdown_full: '[electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c)<br>[sm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c)<br>[Electronic
+    Breakout Board Motor Driver Nema 17 39 Mm Width 39 Mm Height Stepper Motor Closed
+    Loop Makerbase Mks Servo42C](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c)<br><br>'
+markdown_short: '[electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c)<br><br>'
+md5: d2828883c595fb3eea7bbba33e75ec8c
+md5_10: d2828883c5
+md5_10_upper: D2828883C5
+md5_5: d2828
+md5_5_upper: D2828
+md5_6: d28288
+md5_6_alpha: 87p1k
+md5_6_alpha_upper: 87P1K
+md5_6_upper: D28288
+name: Electronic Breakout Board Motor Driver Nema 17 39 Mm Width 39 Mm Height Stepper
+    Motor Closed Loop Makerbase Mks Servo42C
+name_no_class: Breakout Board Motor Driver Nema 17 39 Mm Width 39 Mm Height Stepper
+    Motor Closed Loop Makerbase Mks Servo42C
+name_no_size: Stepper Motor Closed Loop Makerbase Mks Servo42C
+name_no_size_short: Stepper Motor Closed Loop Makerbase Mks Servo42C
+name_no_type: Nema 17 39 Mm Width 39 Mm Height Stepper Motor Closed Loop Makerbase
+    Mks Servo42C
+notes: []
+oomp_key: oomp_electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+oomp_word: pineapple radio wrench
+oomp_word_emoji: ':pineapple: :radio: :wrench:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':radio:'
+- ':wrench:'
+oomp_word_list:
+- pineapple
+- radio
+- wrench
+part_number: mks_servo42c
+part_number_capital: Mks Servo42C
+part_number_first_letter: m
+part_number_first_letter_upper: M
+part_number_upper: MKS_SERVO42C
+short_code: sm
+short_code_upper: SM
+short_name: ''
+size: nema_17_39_mm_width_39_mm_height
+size_capital: Nema 17.39 mm Width 39 mm Height
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: '173939'
+size_only_numbers_no_zeros: '173939'
+size_upper: NEMA_17_39_MM_WIDTH_39_MM_HEIGHT
+type: breakout_board_motor_driver
+type_capital: Breakout Board Motor Driver
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BREAKOUT_BOARD_MOTOR_DRIVER

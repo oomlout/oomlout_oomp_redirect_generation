@@ -1,0 +1,87 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: pro_7
+description_main_capital: Pro 7
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PRO_7
+description_only_numbers: '7'
+description_only_numbers_short: '7'
+description_or_color: '7'
+description_or_color_upper: '7'
+directory: parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866
+id: computer_tablet_microsoft_surface_pro_7_microsoft_model_1866
+id_no_class: tablet_microsoft_surface_pro_7_microsoft_model_1866
+id_no_size: pro_7_microsoft_model_1866
+id_no_type: microsoft_surface_pro_7_microsoft_model_1866
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866
+manufacturer: microsoft
+manufacturer_capital: Microsoft
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_upper: MICROSOFT
+manufacturers: []
+markdown_full: '[computer_tablet_microsoft_surface_pro_7_microsoft_model_1866](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866)<br>[Computer
+    Tablet Microsoft Surface Pro 7 Microsoft Model 1866](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866)<br><br>'
+markdown_short: '[computer_tablet_microsoft_surface_pro_7_microsoft_model_1866](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866)<br><br>'
+md5: 5291cb4ba75dd59748ec687e190c006c
+md5_10: 5291cb4ba7
+md5_10_upper: 5291CB4BA7
+md5_5: 5291c
+md5_5_upper: 5291C
+md5_6: 5291cb
+md5_6_alpha: 37zd7
+md5_6_alpha_upper: 37ZD7
+md5_6_upper: 5291CB
+name: Computer Tablet Microsoft Surface Pro 7 Microsoft Model 1866
+name_no_class: Tablet Microsoft Surface Pro 7 Microsoft Model 1866
+name_no_size: Pro 7 Microsoft Model 1866
+name_no_size_short: Pro 7 Microsoft Model 1866
+name_no_type: Microsoft Surface Pro 7 Microsoft Model 1866
+oomp_key: oomp_computer_tablet_microsoft_surface_pro_7_microsoft_model_1866
+oomp_word: octopus pushpin grapes
+oomp_word_emoji: ':octopus: :pushpin: :grapes:'
+oomp_word_emoji_list:
+- ':octopus:'
+- ':pushpin:'
+- ':grapes:'
+oomp_word_list:
+- octopus
+- pushpin
+- grapes
+part_number: model_1866
+part_number_capital: Model 1866
+part_number_first_letter: m
+part_number_first_letter_upper: M
+part_number_upper: MODEL_1866
+short_code: ''
+short_code_upper: ''
+size: microsoft_surface
+size_capital: Microsoft Surface
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MICROSOFT_SURFACE
+type: tablet
+type_capital: Tablet
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TABLET

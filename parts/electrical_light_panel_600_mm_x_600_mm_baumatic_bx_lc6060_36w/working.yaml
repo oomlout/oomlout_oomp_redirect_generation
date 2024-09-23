@@ -1,0 +1,86 @@
+classification: electrical
+classification_capital: Electrical
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRICAL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
+id: electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
+id_no_class: light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
+id_no_size: baumatic_bx_lc6060_36w
+id_no_type: 600_mm_x_600_mm_baumatic_bx_lc6060_36w
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
+manufacturer: baumatic
+manufacturer_capital: Baumatic
+manufacturer_first_letter: b
+manufacturer_first_letter_upper: B
+manufacturer_upper: BAUMATIC
+manufacturers: []
+markdown_full: '[electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w)<br>[Electrical
+    Light Panel 600 Mm X 600 Mm Baumatic Bx Lc6060 36W](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w)<br><br>'
+markdown_short: '[electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w)<br><br>'
+md5: 0fb75dcfd3a7a407f0eceec35217343c
+md5_10: 0fb75dcfd3
+md5_10_upper: 0FB75DCFD3
+md5_5: 0fb75
+md5_5_upper: 0FB75
+md5_6: 0fb75d
+md5_6_alpha: m2ql
+md5_6_alpha_upper: M2QL
+md5_6_upper: 0FB75D
+name: Electrical Light Panel 600 Mm X 600 Mm Baumatic Bx Lc6060 36W
+name_no_class: Light Panel 600 Mm X 600 Mm Baumatic Bx Lc6060 36W
+name_no_size: Baumatic Bx Lc6060 36W
+name_no_size_short: Baumatic Bx Lc6060 36W
+name_no_type: 600 Mm X 600 Mm Baumatic Bx Lc6060 36W
+oomp_key: oomp_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
+oomp_word: sparkles pizza blowfish
+oomp_word_emoji: ':sparkles: :pizza: :blowfish:'
+oomp_word_emoji_list:
+- ':sparkles:'
+- ':pizza:'
+- ':blowfish:'
+oomp_word_list:
+- sparkles
+- pizza
+- blowfish
+part_number: bx_lc6060_36w
+part_number_capital: Bx Lc6060 36W
+part_number_first_letter: b
+part_number_first_letter_upper: B
+part_number_upper: BX_LC6060_36W
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 600_mm_x_600_mm
+size_capital: 600 mm x 600 mm
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '600600'
+size_only_numbers_no_zeros: '66'
+size_upper: 600_MM_X_600_MM
+type: light_panel
+type_capital: Light Panel
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LIGHT_PANEL

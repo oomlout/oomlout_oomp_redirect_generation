@@ -1,0 +1,87 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: docking_station
+description_main_capital: Docking Station
+description_main_first_letter: d
+description_main_first_letter_upper: D
+description_main_upper: DOCKING_STATION
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+id: computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+id_no_class: power_supply_microsoft_surface_docking_station_microsoft_model_1749
+id_no_size: docking_station_microsoft_model_1749
+id_no_type: microsoft_surface_docking_station_microsoft_model_1749
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+manufacturer: microsoft
+manufacturer_capital: Microsoft
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_upper: MICROSOFT
+manufacturers: []
+markdown_full: '[computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br>[Computer
+    Power Supply Microsoft Surface Docking Station Microsoft Model 1749](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br><br>'
+markdown_short: '[computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br><br>'
+md5: 8faa50745e603bcd26777cb995246133
+md5_10: 8faa50745e
+md5_10_upper: 8FAA50745E
+md5_5: 8faa5
+md5_5_upper: 8FAA5
+md5_6: 8faa50
+md5_6_alpha: 5lsuo
+md5_6_alpha_upper: 5LSUO
+md5_6_upper: 8FAA50
+name: Computer Power Supply Microsoft Surface Docking Station Microsoft Model 1749
+name_no_class: Power Supply Microsoft Surface Docking Station Microsoft Model 1749
+name_no_size: Docking Station Microsoft Model 1749
+name_no_size_short: Docking Station Microsoft Model 1749
+name_no_type: Microsoft Surface Docking Station Microsoft Model 1749
+oomp_key: oomp_computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+oomp_word: calendar lipstick beetle
+oomp_word_emoji: ':calendar: :lipstick: :beetle:'
+oomp_word_emoji_list:
+- ':calendar:'
+- ':lipstick:'
+- ':beetle:'
+oomp_word_list:
+- calendar
+- lipstick
+- beetle
+part_number: model_1749
+part_number_capital: Model 1749
+part_number_first_letter: m
+part_number_first_letter_upper: M
+part_number_upper: MODEL_1749
+short_code: ''
+short_code_upper: ''
+size: microsoft_surface
+size_capital: Microsoft Surface
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MICROSOFT_SURFACE
+type: power_supply
+type_capital: Power Supply
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: POWER_SUPPLY

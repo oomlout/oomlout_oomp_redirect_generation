@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '01_01_57'
+description_main_capital: 01 01.57
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '01_01_57'
+description_only_numbers: '010157'
+description_only_numbers_short: 10k
+description_or_color: 10k
+description_or_color_upper: 10K
+directory: parts/oobb_part_plate_01_01_57
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_57
+id: oobb_part_plate_01_01_57
+id_no_class: part_plate_01_01_57
+id_no_size: '01_01_57'
+id_no_type: plate_01_01_57
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_57
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_01_01_57](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_57)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_57)<br>[Oobb
+  Part Plate 01 01 57](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_57)<br><br>'
+markdown_short: '[oobb_part_plate_01_01_57](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_57)<br><br>'
+md5: 0a3d0b5a7cb904d657ac3aae95e408eb
+md5_10: 0a3d0b5a7c
+md5_10_upper: 0A3D0B5A7C
+md5_5: 0a3d0
+md5_5_upper: 0A3D0
+md5_6: 0a3d0b
+md5_6_alpha: edqj
+md5_6_alpha_upper: EDQJ
+md5_6_upper: 0A3D0B
+name: Oobb Part Plate 01 01 57
+name_no_class: Part Plate 01 01 57
+name_no_size: 01 01 57
+name_no_size_short: 01 01 57
+name_no_type: Plate 01 01 57
+oomp_key: oomp_oobb_part_plate_01_01_57
+oomp_word: sleepy cow sunglasses
+oomp_word_emoji: ':sleepy: :cow: :sunglasses:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':cow:'
+- ':sunglasses:'
+oomp_word_list:
+- sleepy
+- cow
+- sunglasses
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

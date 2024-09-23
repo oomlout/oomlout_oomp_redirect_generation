@@ -1,0 +1,93 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+description_extra_capital: Computer Power Supply Microsoft Surface Docking Station
+  Microsoft Model 1749
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: COMPUTER_POWER_SUPPLY_MICROSOFT_SURFACE_DOCKING_STATION_MICROSOFT_MODEL_1749
+description_main: '11_06_03_'
+description_main_capital: '11 06 03 '
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '11_06_03_'
+description_only_numbers: '110603'
+description_only_numbers_short: 111k
+description_or_color: 111k
+description_or_color_upper: 111K
+directory: parts/oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+id: oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+id_no_class: part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+id_no_size: 11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+id_no_type: holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br>[Oobb
+  Part Holder 11 06 03  Computer Power Supply Microsoft Surface Docking Station Microsoft
+  Model 1749](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br><br>'
+markdown_short: '[oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)<br><br>'
+md5: 240b1b0c07385ec8072e2fca20996429
+md5_10: 240b1b0c07
+md5_10_upper: 240B1B0C07
+md5_5: 240b1
+md5_5_upper: 240B1
+md5_6: 240b1b
+md5_6_alpha: 1emmz
+md5_6_alpha_upper: 1EMMZ
+md5_6_upper: 240B1B
+name: Oobb Part Holder 11 06 03  Computer Power Supply Microsoft Surface Docking Station
+  Microsoft Model 1749
+name_no_class: Part Holder 11 06 03  Computer Power Supply Microsoft Surface Docking
+  Station Microsoft Model 1749
+name_no_size: 11 06 03  Computer Power Supply Microsoft Surface Docking Station Microsoft
+  Model 1749
+name_no_size_short: 11 06 03  Computer Power Supply Microsoft Surface Docking Station
+  Microsoft Model 1749
+name_no_type: Holder 11 06 03  Computer Power Supply Microsoft Surface Docking Station
+  Microsoft Model 1749
+oomp_key: oomp_oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+oomp_word: droplet sunglasses muscle
+oomp_word_emoji: ':droplet: :sunglasses: :muscle:'
+oomp_word_emoji_list:
+- ':droplet:'
+- ':sunglasses:'
+- ':muscle:'
+oomp_word_list:
+- droplet
+- sunglasses
+- muscle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: holder
+size_capital: Holder
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOLDER
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

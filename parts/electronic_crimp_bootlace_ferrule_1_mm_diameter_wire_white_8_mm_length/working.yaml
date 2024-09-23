@@ -1,0 +1,86 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 8_mm_length
+description_main_capital: 8 mm Length
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 8_MM_LENGTH
+description_only_numbers: '8'
+description_only_numbers_short: '8'
+description_or_color: W8
+description_or_color_upper: W8
+directory: parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length
+id: electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length
+id_no_class: crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length
+id_no_size: white_8_mm_length
+id_no_type: 1_mm_diameter_wire_white_8_mm_length
+kicad_reference: ''
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length)<br>[w8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length)<br>[Electronic
+    Crimp Bootlace Ferrule 1 Mm Diameter Wire White 8 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length)<br><br>'
+markdown_short: '[electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length)<br><br>'
+md5: 489a5a7df9db31d1ef1bf15ede27065a
+md5_10: 489a5a7df9
+md5_10_upper: 489A5A7DF9
+md5_5: 489a5
+md5_5_upper: 489A5
+md5_6: 489a5a
+md5_6_alpha: 2tzdm
+md5_6_alpha_upper: 2TZDM
+md5_6_upper: 489A5A
+name: Electronic Crimp Bootlace Ferrule 1 Mm Diameter Wire White 8 Mm Length
+name_no_class: Crimp Bootlace Ferrule 1 Mm Diameter Wire White 8 Mm Length
+name_no_size: White 8 Mm Length
+name_no_size_short: White 8 Mm Length
+name_no_type: 1 Mm Diameter Wire White 8 Mm Length
+oomp_key: oomp_electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length
+oomp_word: hatched_chick golf goat
+oomp_word_emoji: ':hatched_chick: :golf: :goat:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':golf:'
+- ':goat:'
+oomp_word_list:
+- hatched_chick
+- golf
+- goat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: w8
+short_code_upper: W8
+size: 1_mm_diameter_wire
+size_capital: 1 mm Diameter Wire
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1'
+size_only_numbers_no_zeros: '1'
+size_upper: 1_MM_DIAMETER_WIRE
+type: crimp_bootlace_ferrule
+type_capital: Crimp Bootlace Ferrule
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRIMP_BOOTLACE_FERRULE

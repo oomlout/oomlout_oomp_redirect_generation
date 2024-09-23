@@ -1,0 +1,92 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+depth: 65 mm
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 1680_pixel_width_1050_pixel_height
+description_main_capital: 1680 Pixel Width 1050 Pixel Height
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1680_PIXEL_WIDTH_1050_PIXEL_HEIGHT
+description_only_numbers: '16801050'
+description_only_numbers_short: 1M6
+description_or_color: 1M6
+description_or_color_upper: 1M6
+directory: parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
+height: 308 mm
+id: computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
+id_no_class: monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
+id_no_size: 1680_pixel_width_1050_pixel_height_dell_e2009wt
+id_no_type: 508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
+manufacturer: dell
+manufacturer_capital: Dell
+manufacturer_first_letter: d
+manufacturer_first_letter_upper: D
+manufacturer_upper: DELL
+manufacturers: []
+markdown_full: '[computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt)<br>[Computer
+    Monitor 508 Mm Screen Diagonal 1680 Pixel Width 1050 Pixel Height Dell E2009Wt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt)<br><br>'
+markdown_short: '[computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt)<br><br>'
+md5: fd476d1a03596b2bc18dc1a0202a1620
+md5_10: fd476d1a03
+md5_10_upper: FD476D1A03
+md5_5: fd476
+md5_5_upper: FD476
+md5_6: fd476d
+md5_6_alpha: 9vrsd
+md5_6_alpha_upper: 9VRSD
+md5_6_upper: FD476D
+name: Computer Monitor 508 Mm Screen Diagonal 1680 Pixel Width 1050 Pixel Height Dell
+    E2009Wt
+name_no_class: Monitor 508 Mm Screen Diagonal 1680 Pixel Width 1050 Pixel Height Dell
+    E2009Wt
+name_no_size: 1680 Pixel Width 1050 Pixel Height Dell E2009Wt
+name_no_size_short: 1680 Pixel Width 1050 Pixel Height Dell E2009Wt
+name_no_type: 508 Mm Screen Diagonal 1680 Pixel Width 1050 Pixel Height Dell E2009Wt
+oomp_key: oomp_computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
+oomp_word: parking baby_chick shell
+oomp_word_emoji: ':parking: :baby_chick: :shell:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':baby_chick:'
+- ':shell:'
+oomp_word_list:
+- parking
+- baby_chick
+- shell
+part_number: e2009wt
+part_number_capital: E2009Wt
+part_number_first_letter: e
+part_number_first_letter_upper: E
+part_number_upper: E2009WT
+short_code: ''
+short_code_upper: ''
+size: 508_mm_screen_diagonal
+size_capital: 508 mm Screen Diagonal
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '508'
+size_only_numbers_no_zeros: '58'
+size_upper: 508_MM_SCREEN_DIAGONAL
+type: monitor
+type_capital: Monitor
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MONITOR
+width: 470 mm

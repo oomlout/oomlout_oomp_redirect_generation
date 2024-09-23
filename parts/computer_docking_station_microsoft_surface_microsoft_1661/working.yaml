@@ -1,0 +1,87 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/computer_docking_station_microsoft_surface_microsoft_1661
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661
+id: computer_docking_station_microsoft_surface_microsoft_1661
+id_no_class: docking_station_microsoft_surface_microsoft_1661
+id_no_size: microsoft_1661
+id_no_type: microsoft_surface_microsoft_1661
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661
+manufacturer: microsoft
+manufacturer_capital: Microsoft
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_upper: MICROSOFT
+manufacturers: []
+markdown_full: '[computer_docking_station_microsoft_surface_microsoft_1661](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661)<br>[Computer
+    Docking Station Microsoft Surface Microsoft 1661](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661)<br><br>'
+markdown_short: '[computer_docking_station_microsoft_surface_microsoft_1661](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661)<br><br>'
+md5: 26d58805143d0182786476a8a1d2ed5c
+md5_10: 26d5880514
+md5_10_upper: 26D5880514
+md5_5: 26d58
+md5_5_upper: 26D58
+md5_6: 26d588
+md5_6_alpha: 1ijrc
+md5_6_alpha_upper: 1IJRC
+md5_6_upper: 26D588
+name: Computer Docking Station Microsoft Surface Microsoft 1661
+name_no_class: Docking Station Microsoft Surface Microsoft 1661
+name_no_size: Microsoft 1661
+name_no_size_short: Microsoft 1661
+name_no_type: Microsoft Surface Microsoft 1661
+oomp_key: oomp_computer_docking_station_microsoft_surface_microsoft_1661
+oomp_word: eyes house wrench
+oomp_word_emoji: ':eyes: :house: :wrench:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':house:'
+- ':wrench:'
+oomp_word_list:
+- eyes
+- house
+- wrench
+part_number: '1661'
+part_number_capital: '1661'
+part_number_first_letter: '1'
+part_number_first_letter_upper: '1'
+part_number_upper: '1661'
+short_code: ''
+short_code_upper: ''
+size: microsoft_surface
+size_capital: Microsoft Surface
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MICROSOFT_SURFACE
+type: docking_station
+type_capital: Docking Station
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DOCKING_STATION

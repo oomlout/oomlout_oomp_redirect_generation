@@ -1,0 +1,90 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+depth: 7.5 mm
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: max_11
+description_main_capital: Max 11
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAX_11
+description_only_numbers: '11'
+description_only_numbers_short: '11'
+description_or_color: '11'
+description_or_color_upper: '11'
+directory: parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi
+height: 163.7 mm
+id: computer_tablet_amazon_fire_max_11_amazon_kfsnwi
+id_no_class: tablet_amazon_fire_max_11_amazon_kfsnwi
+id_no_size: max_11_amazon_kfsnwi
+id_no_type: amazon_fire_max_11_amazon_kfsnwi
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi
+manufacturer: amazon
+manufacturer_capital: Amazon
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: AMAZON
+manufacturers: []
+markdown_full: '[computer_tablet_amazon_fire_max_11_amazon_kfsnwi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br>[Computer
+    Tablet Amazon Fire Max 11 Amazon Kfsnwi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br><br>'
+markdown_short: '[computer_tablet_amazon_fire_max_11_amazon_kfsnwi](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi)<br><br>'
+md5: 40594279ee97386edde9fec925127755
+md5_10: 40594279ee
+md5_10_upper: 40594279EE
+md5_5: '40594'
+md5_5_upper: '40594'
+md5_6: '405942'
+md5_6_alpha: 2idz6
+md5_6_alpha_upper: 2IDZ6
+md5_6_upper: '405942'
+name: Computer Tablet Amazon Fire Max 11 Amazon Kfsnwi
+name_no_class: Tablet Amazon Fire Max 11 Amazon Kfsnwi
+name_no_size: Max 11 Amazon Kfsnwi
+name_no_size_short: Max 11 Amazon Kfsnwi
+name_no_type: Amazon Fire Max 11 Amazon Kfsnwi
+oomp_key: oomp_computer_tablet_amazon_fire_max_11_amazon_kfsnwi
+oomp_word: racehorse dragon sheep
+oomp_word_emoji: ':racehorse: :dragon: :sheep:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':dragon:'
+- ':sheep:'
+oomp_word_list:
+- racehorse
+- dragon
+- sheep
+part_number: kfsnwi
+part_number_capital: Kfsnwi
+part_number_first_letter: k
+part_number_first_letter_upper: K
+part_number_upper: KFSNWI
+short_code: ''
+short_code_upper: ''
+size: amazon_fire
+size_capital: Amazon Fire
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: AMAZON_FIRE
+type: tablet
+type_capital: Tablet
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TABLET
+width: 259.1 mm

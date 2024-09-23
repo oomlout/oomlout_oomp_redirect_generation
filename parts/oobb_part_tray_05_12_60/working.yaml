@@ -1,0 +1,86 @@
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_upper: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '05_12_60'
+description_main_capital: 05.12.60
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: '05_12_60'
+description_only_numbers: '051260'
+description_only_numbers_short: 51k
+description_or_color: 51k
+description_or_color_upper: 51K
+directory: parts/oobb_part_tray_05_12_60
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_12_60
+id: oobb_part_tray_05_12_60
+id_no_class: part_tray_05_12_60
+id_no_size: '05_12_60'
+id_no_type: tray_05_12_60
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_12_60
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_05_12_60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_12_60)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_12_60)<br>[Oobb
+  Part Tray 05 12 60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_12_60)<br><br>'
+markdown_short: '[oobb_part_tray_05_12_60](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_12_60)<br><br>'
+md5: ec845cb9b27275ac1d7c1bbabfa0629f
+md5_10: ec845cb9b2
+md5_10_upper: EC845CB9B2
+md5_5: ec845
+md5_5_upper: EC845
+md5_6: ec845c
+md5_6_alpha: '98864'
+md5_6_alpha_upper: '98864'
+md5_6_upper: EC845C
+name: Oobb Part Tray 05 12 60
+name_no_class: Part Tray 05 12 60
+name_no_size: 05 12 60
+name_no_size_short: 05 12 60
+name_no_type: Tray 05 12 60
+oomp_key: oomp_oobb_part_tray_05_12_60
+oomp_word: taxi key ox
+oomp_word_emoji: ':taxi: :key: :ox:'
+oomp_word_emoji_list:
+- ':taxi:'
+- ':key:'
+- ':ox:'
+oomp_word_list:
+- taxi
+- key
+- ox
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART
