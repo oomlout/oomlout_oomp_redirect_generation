@@ -50,7 +50,7 @@ def main(**kwargs):
 
 
     
-    redirect_per_file = 500
+    redirect_per_file = 500000
     index_file = 1
     file_redirect = f"{directory_oomp_redirect}\\redirect_{index_file}.csv"
     #write the redirect files
