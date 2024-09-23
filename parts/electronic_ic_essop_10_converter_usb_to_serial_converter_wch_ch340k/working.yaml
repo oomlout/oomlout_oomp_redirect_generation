@@ -24,10 +24,10 @@ description_or_color: 'C '
 description_or_color_upper: 'C '
 directory: parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C968586.html
-    name: LCSC
-    part_number: C968586
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C968586.html
+  name: LCSC
+  part_number: C968586
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
 id: electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
 id_no_class: ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
@@ -42,10 +42,10 @@ manufacturer_first_letter_upper: W
 manufacturer_upper: WCH
 manufacturers: []
 markdown_full: '[electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k)<br>[i](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k)<br>[Electronic
-    Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k)<br>[LCSC
-    - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br>'
+  Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k)<br>[LCSC
+  - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br>'
 markdown_short: '[electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k)<br>[LCSC
-    - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br>'
+  - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br>'
 md5: c2a455d7f4d3be956b8a5b8101644d3d
 md5_10: c2a455d7f4
 md5_10_upper: C2A455D7F4
@@ -78,46 +78,46 @@ part_number_first_letter: c
 part_number_first_letter_upper: C
 part_number_upper: CH340K
 pins:
-    pin_1:
-        name: gnd
-        number: '1'
-        type: signal
-    pin_10:
-        name: v3
-        number: '10'
-        type: signal
-    pin_2:
-        name: ud_positive
-        number: '2'
-        type: signal
-    pin_3:
-        name: ud_negative
-        number: '3'
-        type: signal
-    pin_4:
-        name: gnd
-        number: '4'
-        type: signal
-    pin_5:
-        name: cts
-        number: '5'
-        type: signal
-    pin_6:
-        name: rts
-        number: '6'
-        type: gnd
-    pin_7:
-        name: vcc
-        number: '7'
-        type: signal
-    pin_8:
-        name: txd
-        number: '8'
-        type: signal
-    pin_9:
-        name: rxd
-        number: '9'
-        type: signal
+  pin_1:
+    name: gnd
+    number: '1'
+    type: signal
+  pin_10:
+    name: v3
+    number: '10'
+    type: signal
+  pin_2:
+    name: ud_positive
+    number: '2'
+    type: signal
+  pin_3:
+    name: ud_negative
+    number: '3'
+    type: signal
+  pin_4:
+    name: gnd
+    number: '4'
+    type: signal
+  pin_5:
+    name: cts
+    number: '5'
+    type: signal
+  pin_6:
+    name: rts
+    number: '6'
+    type: gnd
+  pin_7:
+    name: vcc
+    number: '7'
+    type: signal
+  pin_8:
+    name: txd
+    number: '8'
+    type: signal
+  pin_9:
+    name: rxd
+    number: '9'
+    type: signal
 short_code: i
 short_code_upper: I
 short_name: usb to serial converter (ch340k)

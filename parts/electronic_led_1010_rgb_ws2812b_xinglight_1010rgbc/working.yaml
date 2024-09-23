@@ -26,16 +26,16 @@ directory: parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 distributors: []
 filter: ''
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/esden_pkl_led_led_tri_1010//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/esden_pkl_led_led_tri_1010
-    note: source footprint esden_pkl_led_led_tri_1010
-    oomp_key: oomp_esden_pkl_led_led_tri_1010
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l101028121010rgbc_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l101028121010rgbc_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l101028121010rgbc_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
+- directory: oomlout_oomp_footprint_bot/footprints/esden_pkl_led_led_tri_1010//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/esden_pkl_led_led_tri_1010
+  note: source footprint esden_pkl_led_led_tri_1010
+  oomp_key: oomp_esden_pkl_led_led_tri_1010
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l101028121010rgbc_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l101028121010rgbc_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l101028121010rgbc_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 id: electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
@@ -51,7 +51,7 @@ manufacturer_first_letter_upper: X
 manufacturer_upper: XINGLIGHT
 manufacturers: []
 markdown_full: '[electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc)<br>[l101028121010rgbc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc)<br>[Electronic
-    Led 1010 Rgb Ws2812B Xinglight 1010Rgbc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc)<br><br>'
+  Led 1010 Rgb Ws2812B Xinglight 1010Rgbc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc)<br><br>'
 markdown_short: '[electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc)<br><br>'
 md5: c9145fe9ede8e1774735fd150a6d82f7
 md5_10: c9145fe9ed
@@ -84,22 +84,22 @@ part_number_first_letter: '1'
 part_number_first_letter_upper: '1'
 part_number_upper: 1010RGBC
 pins:
-    pin_1:
-        name: do
-        number: '1'
-        type: signal
-    pin_2:
-        name: vdd
-        number: '2'
-        type: power
-    pin_3:
-        name: gnd
-        number: '3'
-        type: power
-    pin_4:
-        name: sdi
-        number: '4'
-        type: signal
+  pin_1:
+    name: do
+    number: '1'
+    type: signal
+  pin_2:
+    name: vdd
+    number: '2'
+    type: power
+  pin_3:
+    name: gnd
+    number: '3'
+    type: power
+  pin_4:
+    name: sdi
+    number: '4'
+    type: signal
 short_code: l101028121010rgbc
 short_code_upper: L101028121010RGBC
 short_name: 1010 Rgbws2812B Led
@@ -111,10 +111,10 @@ size_only_numbers: '1010'
 size_only_numbers_no_zeros: '11'
 size_upper: '1010'
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b
-    oomp_key: oomp_kicad_led_ws2812b
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b
+  oomp_key: oomp_kicad_led_ws2812b
 type: led
 type_capital: Led
 type_first_letter: l

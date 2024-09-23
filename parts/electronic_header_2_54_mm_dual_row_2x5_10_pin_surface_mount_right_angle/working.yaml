@@ -24,10 +24,10 @@ description_or_color: 2k5
 description_or_color_upper: 2K5
 directory: parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C2685180.html
-    name: LCSC
-    part_number: C2685180
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C2685180.html
+  name: LCSC
+  part_number: C2685180
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle
 id: electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle
 id_no_class: header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle
@@ -42,10 +42,10 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle)<br>[hi12x5psmra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle)<br>[Electronic
-    Header 2 54 Mm Dual Row 2X5 10 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle)<br>[LCSC
-    - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>'
+  Header 2 54 Mm Dual Row 2X5 10 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle)<br>[LCSC
+  - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>'
 markdown_short: '[electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount_right_angle)<br>[LCSC
-    - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>'
+  - C2685180<br>](https://lcsc.com/product-detail/C2685180.html)<br>'
 md5: bfd9ecd817cc7704d5410efba3355d82
 md5_10: bfd9ecd817
 md5_10_upper: BFD9ECD817
@@ -86,10 +86,10 @@ size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
 size_upper: 2_54_MM_DUAL_ROW
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x05_odd_even//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x05_odd_even
-    oomp_key: oomp_kicad_connector_generic_conn_02x05_odd_even
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x05_odd_even//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x05_odd_even
+  oomp_key: oomp_kicad_connector_generic_conn_02x05_odd_even
 type: header
 type_capital: Header
 type_first_letter: h

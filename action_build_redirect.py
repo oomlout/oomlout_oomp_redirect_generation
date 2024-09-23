@@ -2,6 +2,10 @@
 
 
 def main(**kwargs):
+
+    import action_build_oomp
+    action_build_oomp.main(**kwargs)
+
     file_oomp_pickle = "temporary/parts.pickle"
     directory_oomp_redirect = "redirect"
 

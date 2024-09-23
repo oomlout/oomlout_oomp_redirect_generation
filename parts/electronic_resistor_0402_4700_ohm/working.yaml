@@ -39,37 +39,37 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    note:
-        reason: did this one first, but not in jlc pcb basic parts and 1 percent are
-            and they are the same price
-        reason_short: not in jlc basic parts
-    part_number: 0402WGJ0472TCE
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    note:
-        reason: in the jlc basic parts catalogue
-        reason_short: jlc basic part
-    part_number: 0402WGF4701TCE
--   id: manufacturer_yageo
-    link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-074K7L
-    name: Yageo
-    note:
-        reason: yageo is a commonly cross referenced part number
-        reason_short: available everywhere
-    part_number: RC0402JR-074K7L
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: did this one first, but not in jlc pcb basic parts and 1 percent are and
+      they are the same price
+    reason_short: not in jlc basic parts
+  part_number: 0402WGJ0472TCE
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: in the jlc basic parts catalogue
+    reason_short: jlc basic part
+  part_number: 0402WGF4701TCE
+- id: manufacturer_yageo
+  link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-074K7L
+  name: Yageo
+  note:
+    reason: yageo is a commonly cross referenced part number
+    reason_short: available everywhere
+  part_number: RC0402JR-074K7L
 markdown_full: '[electronic_resistor_0402_4700_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_4700_ohm)<br>[r4o472](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_4700_ohm)<br>[Electronic
-    Resistor 0402 4700 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_4700_ohm)<br><br>[Uniroyal
-    - 0402WGJ0472TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0472TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0472TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0472TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0472TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0472TCE)<br>[Uniroyal
-    - 0402WGF4701TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF4701TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF4701TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF4701TCE)[(N)  ](https://www.newark.com/search?st=0402WGF4701TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF4701TCE)<br>[Yageo
-    - RC0402JR-074K7L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-074K7L)
-    [(L)  ](https://www.lcsc.com/search?q=RC0402JR-074K7L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-074K7L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-074K7L)[(N)  ](https://www.newark.com/search?st=RC0402JR-074K7L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-074K7L)<br>'
+  Resistor 0402 4700 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_4700_ohm)<br><br>[Uniroyal
+  - 0402WGJ0472TCE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0472TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0472TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0472TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0472TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0472TCE)<br>[Uniroyal
+  - 0402WGF4701TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF4701TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF4701TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF4701TCE)[(N)  ](https://www.newark.com/search?st=0402WGF4701TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF4701TCE)<br>[Yageo
+  - RC0402JR-074K7L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-074K7L)
+  [(L)  ](https://www.lcsc.com/search?q=RC0402JR-074K7L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-074K7L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-074K7L)[(N)  ](https://www.newark.com/search?st=RC0402JR-074K7L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-074K7L)<br>'
 markdown_short: '[electronic_resistor_0402_4700_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_4700_ohm)<br><br>[Uniroyal
-    - 0402WGJ0472TCE- not in jlc basic parts]()[Uniroyal - 0402WGF4701TCE- jlc basic
-    part]()[Yageo - RC0402JR-074K7L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-074K7L)'
+  - 0402WGJ0472TCE- not in jlc basic parts]()[Uniroyal - 0402WGF4701TCE- jlc basic
+  part]()[Yageo - RC0402JR-074K7L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-074K7L)'
 md5: b5dd74ab93cea496596d628179ee139e
 md5_10: b5dd74ab93
 md5_10_upper: B5DD74AB93
@@ -114,10 +114,10 @@ smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-    oomp_key: oomp_kicad_device_r
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+  oomp_key: oomp_kicad_device_r
 type: resistor
 type_capital: Resistor
 type_first_letter: r

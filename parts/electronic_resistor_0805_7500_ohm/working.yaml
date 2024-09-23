@@ -26,16 +26,16 @@ directory: parts/electronic_resistor_0805_7500_ohm
 distributors: []
 filter: ''
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
-    note: source footprint kicad_resistor_smd_r_0805_2012metric
-    oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_r8o752_electronic_resistor_0805_7500_ohm//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_r8o752_electronic_resistor_0805_7500_ohm
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r8o752_electronic_resistor_0805_7500_ohm
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_resistor_smd_r_0805_2012metric//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_resistor_smd_r_0805_2012metric
+  note: source footprint kicad_resistor_smd_r_0805_2012metric
+  oomp_key: oomp_kicad_resistor_smd_r_0805_2012metric
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_r8o752_electronic_resistor_0805_7500_ohm//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_r8o752_electronic_resistor_0805_7500_ohm
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r8o752_electronic_resistor_0805_7500_ohm
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_7500_ohm
 id: electronic_resistor_0805_7500_ohm
@@ -51,7 +51,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_resistor_0805_7500_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_7500_ohm)<br>[r8o752](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_7500_ohm)<br>[Electronic
-    Resistor 0805 7500 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_7500_ohm)<br><br>'
+  Resistor 0805 7500 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_7500_ohm)<br><br>'
 markdown_short: '[electronic_resistor_0805_7500_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_7500_ohm)<br><br>'
 md5: 1401e02c6794c7ec36d186f1b5a085b3
 md5_10: 1401e02c67
@@ -97,10 +97,10 @@ smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-    oomp_key: oomp_kicad_device_r
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+  oomp_key: oomp_kicad_device_r
 type: resistor
 type_capital: Resistor
 type_first_letter: r

@@ -24,26 +24,26 @@ description_or_color: 'R '
 description_or_color_upper: 'R '
 directory: parts/electronic_led_0603_red
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C965799.html
-    name: LCSC
-    part_number: C965799
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C2286.html
-    name: LCSC
-    part_number: C2286
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C965799.html
+  name: LCSC
+  part_number: C965799
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C2286.html
+  name: LCSC
+  part_number: C2286
 filter: ''
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
-    note: source footprint kicad_led_smd_led_0603_1608metric
-    oomp_key: oomp_kicad_led_smd_led_0603_1608metric
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l6r_electronic_led_0603_red//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l6r_electronic_led_0603_red
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l6r_electronic_led_0603_red
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
+  note: source footprint kicad_led_smd_led_0603_1608metric
+  oomp_key: oomp_kicad_led_smd_led_0603_1608metric
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l6r_electronic_led_0603_red//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l6r_electronic_led_0603_red
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l6r_electronic_led_0603_red
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_red
 id: electronic_led_0603_red
@@ -58,17 +58,17 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_xinglight
-    link: ''
-    name: XINGLIGHT
-    part_number: XL-1608SURC-06
+- id: manufacturer_xinglight
+  link: ''
+  name: XINGLIGHT
+  part_number: XL-1608SURC-06
 markdown_full: '[electronic_led_0603_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_red)<br>[l6r](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_red)<br>[Electronic
-    Led 0603 Red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_red)<br>[LCSC
-    - C965799<br>](https://lcsc.com/product-detail/C965799.html)[LCSC - C2286<br>](https://lcsc.com/product-detail/C2286.html)<br>[XINGLIGHT
-    - XL-1608SURC-06]() [(L)  ](https://www.lcsc.com/search?q=XL-1608SURC-06)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608SURC-06)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608SURC-06)[(N)  ](https://www.newark.com/search?st=XL-1608SURC-06)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608SURC-06)<br>'
+  Led 0603 Red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_red)<br>[LCSC
+  - C965799<br>](https://lcsc.com/product-detail/C965799.html)[LCSC - C2286<br>](https://lcsc.com/product-detail/C2286.html)<br>[XINGLIGHT
+  - XL-1608SURC-06]() [(L)  ](https://www.lcsc.com/search?q=XL-1608SURC-06)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608SURC-06)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608SURC-06)[(N)  ](https://www.newark.com/search?st=XL-1608SURC-06)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608SURC-06)<br>'
 markdown_short: '[electronic_led_0603_red](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_red)<br>[LCSC
-    - C965799<br>](https://lcsc.com/product-detail/C965799.html)[LCSC - C2286<br>](https://lcsc.com/product-detail/C2286.html)<br>[XINGLIGHT
-    - XL-1608SURC-06]()'
+  - C965799<br>](https://lcsc.com/product-detail/C965799.html)[LCSC - C2286<br>](https://lcsc.com/product-detail/C2286.html)<br>[XINGLIGHT
+  - XL-1608SURC-06]()'
 md5: 255611ec8565e66dea88d4fba9421c6d
 md5_10: 255611ec85
 md5_10_upper: 255611EC85
@@ -114,10 +114,10 @@ smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
-    oomp_key: oomp_kicad_device_led
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+  oomp_key: oomp_kicad_device_led
 type: led
 type_capital: Led
 type_first_letter: l

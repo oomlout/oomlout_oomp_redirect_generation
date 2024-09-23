@@ -40,7 +40,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_resistor_0201_680000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680000_ohm)<br>[ro684](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680000_ohm)<br>[Electronic
-    Resistor 0201 680000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680000_ohm)<br><br>'
+  Resistor 0201 680000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680000_ohm)<br><br>'
 markdown_short: '[electronic_resistor_0201_680000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_680000_ohm)<br><br>'
 md5: 7a7d17c5397bbb9a1da70b16d8433c9f
 md5_10: 7a7d17c539
@@ -82,10 +82,10 @@ size_only_numbers: '0201'
 size_only_numbers_no_zeros: '21'
 size_upper: '0201'
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-    oomp_key: oomp_kicad_device_r
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+  oomp_key: oomp_kicad_device_r
 type: resistor
 type_capital: Resistor
 type_first_letter: r

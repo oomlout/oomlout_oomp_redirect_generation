@@ -24,21 +24,21 @@ description_or_color: 'M '
 description_or_color_upper: 'M '
 directory: parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C130052.html
-    name: LCSC
-    part_number: C130052
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C130052.html
+  name: LCSC
+  part_number: C130052
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_tssop_8_4_4x3mm_p0_65mm//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_tssop_8_4_4x3mm_p0_65mm
-    note: source footprint kicad_package_so_tssop_8_4_4x3mm_p0_65mm
-    oomp_key: oomp_kicad_package_so_tssop_8_4_4x3mm_p0_65mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_itssp8mpptps2113_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_itssp8mpptps2113_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_itssp8mpptps2113_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_tssop_8_4_4x3mm_p0_65mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_tssop_8_4_4x3mm_p0_65mm
+  note: source footprint kicad_package_so_tssop_8_4_4x3mm_p0_65mm
+  oomp_key: oomp_kicad_package_so_tssop_8_4_4x3mm_p0_65mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_itssp8mpptps2113_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_itssp8mpptps2113_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_itssp8mpptps2113_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 id: electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 id_no_class: ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
@@ -53,10 +53,10 @@ manufacturer_first_letter_upper: T
 manufacturer_upper: TEXAS_INSTRUMENTS
 manufacturers: []
 markdown_full: '[electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw)<br>[itssp8mpptps2113](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw)<br>[Electronic
-    Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw)<br>[LCSC
-    - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br>'
+  Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw)<br>[LCSC
+  - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br>'
 markdown_short: '[electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw)<br>[LCSC
-    - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br>'
+  - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br>'
 md5: 7d9358577cfc04f422284b5e497e24d5
 md5_10: 7d9358577c
 md5_10_upper: 7D9358577C
@@ -89,38 +89,38 @@ part_number_first_letter: t
 part_number_first_letter_upper: T
 part_number_upper: TPS2113APW
 pins:
-    pin_1:
-        name: stat
-        number: '1'
-        type: signal
-    pin_2:
-        name: en
-        number: '2'
-        type: signal
-    pin_3:
-        name: vsns
-        number: '3'
-        type: signal
-    pin_4:
-        name: ilim
-        number: '4'
-        type: signal
-    pin_5:
-        name: gnd
-        number: '5'
-        type: signal
-    pin_6:
-        name: in2
-        number: '6'
-        type: power
-    pin_7:
-        name: out
-        number: '7'
-        type: power
-    pin_8:
-        name: in1
-        number: '8'
-        type: power
+  pin_1:
+    name: stat
+    number: '1'
+    type: signal
+  pin_2:
+    name: en
+    number: '2'
+    type: signal
+  pin_3:
+    name: vsns
+    number: '3'
+    type: signal
+  pin_4:
+    name: ilim
+    number: '4'
+    type: signal
+  pin_5:
+    name: gnd
+    number: '5'
+    type: signal
+  pin_6:
+    name: in2
+    number: '6'
+    type: power
+  pin_7:
+    name: out
+    number: '7'
+    type: power
+  pin_8:
+    name: in1
+    number: '8'
+    type: power
 short_code: itssp8mpptps2113
 short_code_upper: ITSSP8MPPTPS2113
 short_name: autoswitching power mux (tps2113apw)

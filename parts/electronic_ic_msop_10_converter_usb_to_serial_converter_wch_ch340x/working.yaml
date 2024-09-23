@@ -24,21 +24,21 @@ description_or_color: 'C '
 description_or_color_upper: 'C '
 directory: parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C3035748.html
-    name: LCSC
-    part_number: C3035748
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C3035748.html
+  name: LCSC
+  part_number: C3035748
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm
-    note: source footprint kicad_package_so_msop_10_3x3mm_p0_5mm
-    oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_imsp10ch340x_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_imsp10ch340x_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_imsp10ch340x_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_msop_10_3x3mm_p0_5mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_msop_10_3x3mm_p0_5mm
+  note: source footprint kicad_package_so_msop_10_3x3mm_p0_5mm
+  oomp_key: oomp_kicad_package_so_msop_10_3x3mm_p0_5mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_imsp10ch340x_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_imsp10ch340x_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_imsp10ch340x_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
 id: electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
 id_no_class: ic_msop_10_converter_usb_to_serial_converter_wch_ch340x
@@ -53,10 +53,10 @@ manufacturer_first_letter_upper: W
 manufacturer_upper: WCH
 manufacturers: []
 markdown_full: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x)<br>[imsp10ch340x](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x)<br>[Electronic
-    Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x)<br>[LCSC
-    - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br>'
+  Ic Msop 10 Converter Usb To Serial Converter Wch Ch340X](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x)<br>[LCSC
+  - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br>'
 markdown_short: '[electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340x)<br>[LCSC
-    - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br>'
+  - C3035748<br>](https://lcsc.com/product-detail/C3035748.html)<br>'
 md5: 0f210323ca1152360fceeb82b02d755c
 md5_10: 0f210323ca
 md5_10_upper: 0F210323CA
@@ -89,46 +89,46 @@ part_number_first_letter: c
 part_number_first_letter_upper: C
 part_number_upper: CH340X
 pins:
-    pin_1:
-        name: ud_positive
-        number: '1'
-        type: signal
-    pin_10:
-        name: v3
-        number: '10'
-        type: signal
-    pin_2:
-        name: ud_negative
-        number: '2'
-        type: signal
-    pin_3:
-        name: gnd
-        number: '3'
-        type: signal
-    pin_4:
-        name: rts
-        number: '4'
-        type: signal
-    pin_5:
-        name: cts
-        number: '5'
-        type: signal
-    pin_6:
-        name: tnow_dtr
-        number: '6'
-        type: gnd
-    pin_7:
-        name: vcc
-        number: '7'
-        type: signal
-    pin_8:
-        name: rxd
-        number: '8'
-        type: signal
-    pin_9:
-        name: txd
-        number: '9'
-        type: signal
+  pin_1:
+    name: ud_positive
+    number: '1'
+    type: signal
+  pin_10:
+    name: v3
+    number: '10'
+    type: signal
+  pin_2:
+    name: ud_negative
+    number: '2'
+    type: signal
+  pin_3:
+    name: gnd
+    number: '3'
+    type: signal
+  pin_4:
+    name: rts
+    number: '4'
+    type: signal
+  pin_5:
+    name: cts
+    number: '5'
+    type: signal
+  pin_6:
+    name: tnow_dtr
+    number: '6'
+    type: gnd
+  pin_7:
+    name: vcc
+    number: '7'
+    type: signal
+  pin_8:
+    name: rxd
+    number: '8'
+    type: signal
+  pin_9:
+    name: txd
+    number: '9'
+    type: signal
 short_code: imsp10ch340x
 short_code_upper: IMSP10CH340X
 short_name: usb to serial converter (ch340x)
@@ -140,10 +140,10 @@ size_only_numbers: '10'
 size_only_numbers_no_zeros: '1'
 size_upper: MSOP_10
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340x//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340x
-    oomp_key: oomp_kicad_interface_usb_ch340x
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_interface_usb_ch340x//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_interface_usb_ch340x
+  oomp_key: oomp_kicad_interface_usb_ch340x
 type: ic
 type_capital: Ic
 type_first_letter: i

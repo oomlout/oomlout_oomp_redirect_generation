@@ -26,16 +26,16 @@ directory: parts/electronic_led_10_mm_white
 distributors: []
 filter: ''
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
-    note: source footprint kicad_led_tht_led_d10_0mm
-    oomp_key: oomp_kicad_led_tht_led_d10_0mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l10w_electronic_led_10_mm_white//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l10w_electronic_led_10_mm_white
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l10w_electronic_led_10_mm_white
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d10_0mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d10_0mm
+  note: source footprint kicad_led_tht_led_d10_0mm
+  oomp_key: oomp_kicad_led_tht_led_d10_0mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l10w_electronic_led_10_mm_white//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l10w_electronic_led_10_mm_white
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l10w_electronic_led_10_mm_white
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_white
 id: electronic_led_10_mm_white
@@ -51,7 +51,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_led_10_mm_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_white)<br>[l10w](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_white)<br>[Electronic
-    Led 10 Mm White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_white)<br><br>'
+  Led 10 Mm White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_white)<br><br>'
 markdown_short: '[electronic_led_10_mm_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_white)<br><br>'
 md5: 54d73c94ea96407643c2147bcb839b65
 md5_10: 54d73c94ea
@@ -94,10 +94,10 @@ size_only_numbers: '10'
 size_only_numbers_no_zeros: '1'
 size_upper: 10_MM
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
-    oomp_key: oomp_kicad_device_led
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+  oomp_key: oomp_kicad_device_led
 type: led
 type_capital: Led
 type_first_letter: l

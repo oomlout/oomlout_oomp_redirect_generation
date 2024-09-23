@@ -38,7 +38,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_1_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount)<br>[hi11psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount)<br>[Electronic
-    Header 2 54 Mm 1 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount)<br><br>'
+  Header 2 54 Mm 1 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount)<br><br>'
 markdown_short: '[electronic_header_2_54_mm_1_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_1_pin_surface_mount)<br><br>'
 md5: eff24b1b80fbe825d85350583460b1cc
 md5_10: eff24b1b80
@@ -80,10 +80,10 @@ size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
 size_upper: 2_54_MM
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x01_pin//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x01_pin
-    oomp_key: oomp_kicad_connector_conn_01x01_pin
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x01_pin//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x01_pin
+  oomp_key: oomp_kicad_connector_conn_01x01_pin
 type: header
 type_capital: Header
 type_first_letter: h

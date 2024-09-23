@@ -26,16 +26,16 @@ directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_her
 distributors: []
 filter: ''
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
-    note: source footprint kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
-    oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+  note: source footprint kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+  oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
 id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
@@ -51,7 +51,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz)<br>[xcr3213mhz8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz)<br>[Electronic
-    Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz)<br><br>'
+  Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz)<br><br>'
 markdown_short: '[electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz)<br><br>'
 md5: fbf4f6bd8d89a3cb1a67c8e2973297b3
 md5_10: fbf4f6bd8d
@@ -93,10 +93,10 @@ size_only_numbers: '3213'
 size_only_numbers_no_zeros: '3213'
 size_upper: '3213'
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
-    oomp_key: oomp_kicad_device_crystal_gnd2
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
+  oomp_key: oomp_kicad_device_crystal_gnd2
 type: ceramic_resonator
 type_capital: Ceramic Resonator
 type_first_letter: c

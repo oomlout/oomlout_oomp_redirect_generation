@@ -24,22 +24,22 @@ description_or_color: 'Y '
 description_or_color_upper: 'Y '
 directory: parts/electronic_led_0603_yellow
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C965802.html
-    name: LCSC
-    part_number: C965802
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C965802.html
+  name: LCSC
+  part_number: C965802
 filter: ''
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
-    note: source footprint kicad_led_smd_led_0603_1608metric
-    oomp_key: oomp_kicad_led_smd_led_0603_1608metric
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l6y_electronic_led_0603_yellow//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l6y_electronic_led_0603_yellow
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l6y_electronic_led_0603_yellow
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
+  note: source footprint kicad_led_smd_led_0603_1608metric
+  oomp_key: oomp_kicad_led_smd_led_0603_1608metric
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l6y_electronic_led_0603_yellow//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l6y_electronic_led_0603_yellow
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l6y_electronic_led_0603_yellow
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow
 id: electronic_led_0603_yellow
@@ -54,16 +54,16 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_xinglight
-    link: ''
-    name: XINGLIGHT
-    part_number: XL-1608UYC-06
+- id: manufacturer_xinglight
+  link: ''
+  name: XINGLIGHT
+  part_number: XL-1608UYC-06
 markdown_full: '[electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow)<br>[l6y](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow)<br>[Electronic
-    Led 0603 Yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow)<br>[LCSC
-    - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]()
-    [(L)  ](https://www.lcsc.com/search?q=XL-1608UYC-06)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UYC-06)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UYC-06)[(N)  ](https://www.newark.com/search?st=XL-1608UYC-06)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UYC-06)<br>'
+  Led 0603 Yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow)<br>[LCSC
+  - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]()
+  [(L)  ](https://www.lcsc.com/search?q=XL-1608UYC-06)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UYC-06)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UYC-06)[(N)  ](https://www.newark.com/search?st=XL-1608UYC-06)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UYC-06)<br>'
 markdown_short: '[electronic_led_0603_yellow](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow)<br>[LCSC
-    - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]()'
+  - C965802<br>](https://lcsc.com/product-detail/C965802.html)<br>[XINGLIGHT - XL-1608UYC-06]()'
 md5: 27dbb49a7267d86fab8e1a25638fda98
 md5_10: 27dbb49a72
 md5_10_upper: 27DBB49A72
@@ -109,10 +109,10 @@ smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
-    oomp_key: oomp_kicad_device_led
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+  oomp_key: oomp_kicad_device_led
 type: led
 type_capital: Led
 type_first_letter: l

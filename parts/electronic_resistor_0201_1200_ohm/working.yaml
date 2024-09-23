@@ -39,19 +39,19 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_uniroyal
-    link: ''
-    name: Uniroyal
-    note:
-        reason: did this one first, but not in jlc pcb basic parts and 1 percent are
-            and they are the same price
-        reason_short: not in jlc basic parts
-    part_number: NQ01WMJ0122TEE
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: did this one first, but not in jlc pcb basic parts and 1 percent are and
+      they are the same price
+    reason_short: not in jlc basic parts
+  part_number: NQ01WMJ0122TEE
 markdown_full: '[electronic_resistor_0201_1200_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1200_ohm)<br>[ro122](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1200_ohm)<br>[Electronic
-    Resistor 0201 1200 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1200_ohm)<br><br>[Uniroyal
-    - NQ01WMJ0122TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0122TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0122TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0122TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0122TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0122TEE)<br>'
+  Resistor 0201 1200 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1200_ohm)<br><br>[Uniroyal
+  - NQ01WMJ0122TEE- not in jlc basic parts]() [(L)  ](https://www.lcsc.com/search?q=NQ01WMJ0122TEE)[(D)  ](https://www.digikey.com/en/products?keywords=NQ01WMJ0122TEE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=NQ01WMJ0122TEE)[(N)  ](https://www.newark.com/search?st=NQ01WMJ0122TEE)[(SZ)  ](https://so.szlcsc.com/global.html?k=NQ01WMJ0122TEE)<br>'
 markdown_short: '[electronic_resistor_0201_1200_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_1200_ohm)<br><br>[Uniroyal
-    - NQ01WMJ0122TEE- not in jlc basic parts]()'
+  - NQ01WMJ0122TEE- not in jlc basic parts]()'
 md5: 72c084bde1638748b43ea6bab2f0441e
 md5_10: 72c084bde1
 md5_10_upper: 72C084BDE1
@@ -92,10 +92,10 @@ size_only_numbers: '0201'
 size_only_numbers_no_zeros: '21'
 size_upper: '0201'
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-    oomp_key: oomp_kicad_device_r
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+  oomp_key: oomp_kicad_device_r
 type: resistor
 type_capital: Resistor
 type_first_letter: r

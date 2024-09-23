@@ -38,7 +38,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_5_mm_jst_xh_8_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_surface_mount)<br>[hjxh8psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_surface_mount)<br>[Electronic
-    Header 2 5 Mm Jst Xh 8 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_surface_mount)<br><br>'
+  Header 2 5 Mm Jst Xh 8 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_surface_mount)<br><br>'
 markdown_short: '[electronic_header_2_5_mm_jst_xh_8_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_8_pin_surface_mount)<br><br>'
 md5: 6ffaf370952cbd60788190d3a45e357e
 md5_10: 6ffaf37095
@@ -80,10 +80,10 @@ size_only_numbers: '25'
 size_only_numbers_no_zeros: '25'
 size_upper: 2_5_MM_JST_XH
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x08_pin//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin
-    oomp_key: oomp_kicad_connector_conn_01x08_pin
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x08_pin//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x08_pin
+  oomp_key: oomp_kicad_connector_conn_01x08_pin
 type: header
 type_capital: Header
 type_first_letter: h

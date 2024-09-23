@@ -10,6 +10,7 @@ _pcb.lck
 *.lck
 outputs/
 parts/*
+parts\*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

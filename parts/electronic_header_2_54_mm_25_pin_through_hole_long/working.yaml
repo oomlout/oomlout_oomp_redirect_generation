@@ -24,14 +24,14 @@ description_or_color: '25'
 description_or_color_upper: '25'
 directory: parts/electronic_header_2_54_mm_25_pin_through_hole_long
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C2337.html
-    name: LCSC
-    part_number: C2337
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C2883695.html
-    name: LCSC
-    part_number: C2883695
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C2337.html
+  name: LCSC
+  part_number: C2337
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C2883695.html
+  name: LCSC
+  part_number: C2883695
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_long
 id: electronic_header_2_54_mm_25_pin_through_hole_long
 id_no_class: header_2_54_mm_25_pin_through_hole_long
@@ -46,10 +46,10 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_25_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_long)<br>[hi125pthl](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_long)<br>[Electronic
-    Header 2 54 Mm 25 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_long)<br>[LCSC
-    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
+  Header 2 54 Mm 25 Pin Through Hole Long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_long)<br>[LCSC
+  - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
 markdown_short: '[electronic_header_2_54_mm_25_pin_through_hole_long](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_25_pin_through_hole_long)<br>[LCSC
-    - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
+  - C2337<br>](https://lcsc.com/product-detail/C2337.html)[LCSC - C2883695<br>](https://lcsc.com/product-detail/C2883695.html)<br>'
 md5: b64876bb479a20aa9469d209ba0c2f91
 md5_10: b64876bb47
 md5_10_upper: B64876BB47
@@ -90,10 +90,10 @@ size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
 size_upper: 2_54_MM
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x25_pin//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x25_pin
-    oomp_key: oomp_kicad_connector_conn_01x25_pin
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x25_pin//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x25_pin
+  oomp_key: oomp_kicad_connector_conn_01x25_pin
 type: header
 type_capital: Header
 type_first_letter: h

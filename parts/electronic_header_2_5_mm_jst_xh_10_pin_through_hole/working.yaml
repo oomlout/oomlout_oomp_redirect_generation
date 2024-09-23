@@ -38,7 +38,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_5_mm_jst_xh_10_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_through_hole)<br>[hjxh10pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_through_hole)<br>[Electronic
-    Header 2 5 Mm Jst Xh 10 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_through_hole)<br><br>'
+  Header 2 5 Mm Jst Xh 10 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_through_hole)<br><br>'
 markdown_short: '[electronic_header_2_5_mm_jst_xh_10_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_10_pin_through_hole)<br><br>'
 md5: b0313658b6278688f15f5904336fa783
 md5_10: b0313658b6
@@ -80,10 +80,10 @@ size_only_numbers: '25'
 size_only_numbers_no_zeros: '25'
 size_upper: 2_5_MM_JST_XH
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x10_pin//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x10_pin
-    oomp_key: oomp_kicad_connector_conn_01x10_pin
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x10_pin//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x10_pin
+  oomp_key: oomp_kicad_connector_conn_01x10_pin
 type: header
 type_capital: Header
 type_first_letter: h

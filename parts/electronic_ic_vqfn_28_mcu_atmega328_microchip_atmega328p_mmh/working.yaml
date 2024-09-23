@@ -25,16 +25,16 @@ description_or_color_upper: M328
 directory: parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 distributors: []
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
-    note: source footprint kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
-    oomp_key: oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
+  note: source footprint kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
+  oomp_key: oomp_kicad_package_dfn_qfn_vqfn_28_1ep_4x4mm_p0_45mm_ep2_4x2_4mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 id: electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 id_no_class: ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
@@ -48,7 +48,7 @@ manufacturer_first_letter_upper: M
 manufacturer_upper: MICROCHIP
 manufacturers: []
 markdown_full: '[electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh)<br>[ivq28mcuat328](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh)<br>[Electronic
-    Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh)<br><br>'
+  Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh)<br><br>'
 markdown_short: '[electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh)<br><br>'
 md5: 5c1e39c0204a190c5ee2c8d7d640acf5
 md5_10: 5c1e39c020
@@ -91,10 +91,10 @@ size_only_numbers: '28'
 size_only_numbers_no_zeros: '28'
 size_upper: VQFN_28
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm
-    oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_mm
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_mm
+  oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_mm
 type: ic
 type_capital: Ic
 type_first_letter: i

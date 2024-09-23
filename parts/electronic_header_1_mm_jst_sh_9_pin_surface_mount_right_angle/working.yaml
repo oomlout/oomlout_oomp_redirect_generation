@@ -25,16 +25,16 @@ description_or_color_upper: '9'
 directory: parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
 distributors: []
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal
-    note: source footprint kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal
-    oomp_key: oomp_kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hjsh9psmra_electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hjsh9psmra_electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hjsh9psmra_electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal
+  note: source footprint kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal
+  oomp_key: oomp_kicad_connector_jst_jst_sh_sm09b_srss_tb_1x09_1mp_p1_00mm_horizontal
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hjsh9psmra_electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hjsh9psmra_electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hjsh9psmra_electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
 id: electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
 id_no_class: header_1_mm_jst_sh_9_pin_surface_mount_right_angle
@@ -48,15 +48,15 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_jst
-    link: https://www.jst-mfg.com/product/index.php?series=231
-    name: JST
-    part_number: SM09B-SRSS-TB
+- id: manufacturer_jst
+  link: https://www.jst-mfg.com/product/index.php?series=231
+  name: JST
+  part_number: SM09B-SRSS-TB
 markdown_full: '[electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle)<br>[hjsh9psmra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle)<br>[Electronic
-    Header 1 Mm Jst Sh 9 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle)<br><br>[JST
-    - SM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM09B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM09B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM09B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM09B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM09B-SRSS-TB)<br>'
+  Header 1 Mm Jst Sh 9 Pin Surface Mount Right Angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle)<br><br>[JST
+  - SM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=SM09B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=SM09B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=SM09B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=SM09B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=SM09B-SRSS-TB)<br>'
 markdown_short: '[electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle)<br><br>[JST
-    - SM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)'
+  - SM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)'
 md5: b3b7ebe08ada490a5787e2e427a8b0a7
 md5_10: b3b7ebe08a
 md5_10_upper: B3B7EBE08A
@@ -98,10 +98,10 @@ size_only_numbers: '1'
 size_only_numbers_no_zeros: '1'
 size_upper: 1_MM_JST_SH
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x09_pin//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin
-    oomp_key: oomp_kicad_connector_conn_01x09_pin
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x09_pin//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin
+  oomp_key: oomp_kicad_connector_conn_01x09_pin
 type: header
 type_capital: Header
 type_first_letter: h

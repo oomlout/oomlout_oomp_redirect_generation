@@ -25,16 +25,16 @@ description_or_color_upper: L1K1
 directory: parts/electronic_pmic_sot_223_linear_1117_adj
 distributors: []
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
-    note: source footprint kicad_package_to_sot_smd_sot_223_3_tabpin2
-    oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_adj//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_adj
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_adj
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+  note: source footprint kicad_package_to_sot_smd_sot_223_3_tabpin2
+  oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_adj//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_adj
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_adj
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj
 id: electronic_pmic_sot_223_linear_1117_adj
 id_no_class: pmic_sot_223_linear_1117_adj
@@ -48,7 +48,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br>[pms2231117](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br>[Electronic
-    Pmic Sot 223 Linear 1117 Adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br><br>'
+  Pmic Sot 223 Linear 1117 Adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br><br>'
 markdown_short: '[electronic_pmic_sot_223_linear_1117_adj](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)<br><br>'
 md5: cdc5644737274c72642f6d91b99a7aaa
 md5_10: cdc5644737
@@ -95,10 +95,10 @@ smd_tape_depth: 2_mm
 smd_tape_pitch: 8_mm
 smd_tape_width: 12_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_adj//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_adj
-    oomp_key: oomp_kicad_regulator_linear_ap1117_adj
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_adj//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_adj
+  oomp_key: oomp_kicad_regulator_linear_ap1117_adj
 type: pmic
 type_capital: Pmic
 type_first_letter: p

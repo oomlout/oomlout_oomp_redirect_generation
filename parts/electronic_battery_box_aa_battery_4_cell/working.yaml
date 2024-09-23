@@ -24,10 +24,10 @@ description_or_color: '4'
 description_or_color_upper: '4'
 directory: parts/electronic_battery_box_aa_battery_4_cell
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/test_value.html
-    name: LCSC
-    part_number: test_value
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/test_value.html
+  name: LCSC
+  part_number: test_value
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell
 id: electronic_battery_box_aa_battery_4_cell
 id_no_class: battery_box_aa_battery_4_cell
@@ -41,10 +41,10 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell)<br>[Electronic
-    Battery Box Aa Battery 4 Cell](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell)<br>[LCSC
-    - test_value<br>](https://lcsc.com/product-detail/test_value.html)<br>'
+  Battery Box Aa Battery 4 Cell](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell)<br>[LCSC
+  - test_value<br>](https://lcsc.com/product-detail/test_value.html)<br>'
 markdown_short: '[electronic_battery_box_aa_battery_4_cell](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_aa_battery_4_cell)<br>[LCSC
-    - test_value<br>](https://lcsc.com/product-detail/test_value.html)<br>'
+  - test_value<br>](https://lcsc.com/product-detail/test_value.html)<br>'
 md5: 19e5242d3e7933b364c61c2e3685fe77
 md5_10: 19e5242d3e
 md5_10_upper: 19E5242D3E

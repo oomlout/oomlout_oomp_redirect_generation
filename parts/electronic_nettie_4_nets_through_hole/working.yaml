@@ -26,16 +26,16 @@ directory: parts/electronic_nettie_4_nets_through_hole
 distributors: []
 filter: ''
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_tht_pad0_3mm//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_tht_pad0_3mm
-    note: source footprint kicad_nettie_nettie_4_tht_pad0_3mm
-    oomp_key: oomp_kicad_nettie_nettie_4_tht_pad0_3mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_tht_pad0_3mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_tht_pad0_3mm
+  note: source footprint kicad_nettie_nettie_4_tht_pad0_3mm
+  oomp_key: oomp_kicad_nettie_nettie_4_tht_pad0_3mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_nt4th_electronic_nettie_4_nets_through_hole
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole
 id: electronic_nettie_4_nets_through_hole
@@ -51,7 +51,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br>[nt4th](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br>[Electronic
-    Nettie 4 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br><br>'
+  Nettie 4 Nets Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br><br>'
 markdown_short: '[electronic_nettie_4_nets_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_nettie_4_nets_through_hole)<br><br>'
 md5: ac52abec84c9c9c28eb15db0ca925cd9
 md5_10: ac52abec84
@@ -93,10 +93,10 @@ size_only_numbers: '4'
 size_only_numbers_no_zeros: '4'
 size_upper: 4_NETS
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4
-    oomp_key: oomp_kicad_device_nettie_4
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4
+  oomp_key: oomp_kicad_device_nettie_4
 type: nettie
 type_capital: Nettie
 type_first_letter: n

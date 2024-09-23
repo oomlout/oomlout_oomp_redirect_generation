@@ -40,7 +40,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_resistor_0402_750000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_750000_ohm)<br>[r4o754](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_750000_ohm)<br>[Electronic
-    Resistor 0402 750000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_750000_ohm)<br><br>'
+  Resistor 0402 750000 Ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_750000_ohm)<br><br>'
 markdown_short: '[electronic_resistor_0402_750000_ohm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_750000_ohm)<br><br>'
 md5: 4cbd4494f00539eda7530996b5dfacaf
 md5_10: 4cbd4494f0
@@ -86,10 +86,10 @@ smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
-    oomp_key: oomp_kicad_device_r
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+  oomp_key: oomp_kicad_device_r
 type: resistor
 type_capital: Resistor
 type_first_letter: r

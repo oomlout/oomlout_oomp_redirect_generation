@@ -37,7 +37,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_button_11_mm_panel_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount)<br>[b11p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount)<br>[Electronic
-    Button 11 Mm Panel Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount)<br><br>'
+  Button 11 Mm Panel Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount)<br><br>'
 markdown_short: '[electronic_button_11_mm_panel_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_11_mm_panel_mount)<br><br>'
 md5: 63d4acda37ce132f831b58d513cb9798
 md5_10: 63d4acda37
@@ -80,10 +80,10 @@ size_only_numbers: '11'
 size_only_numbers_no_zeros: '11'
 size_upper: 11_MM
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
-    oomp_key: oomp_kicad_switch_sw_push
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_switch_sw_push//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_switch_sw_push
+  oomp_key: oomp_kicad_switch_sw_push
 type: button
 type_capital: Button
 type_first_letter: b

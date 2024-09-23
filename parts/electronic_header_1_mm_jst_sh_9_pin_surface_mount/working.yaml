@@ -37,15 +37,15 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_jst
-    link: https://www.jst-mfg.com/product/index.php?series=231
-    name: JST
-    part_number: BM09B-SRSS-TB
+- id: manufacturer_jst
+  link: https://www.jst-mfg.com/product/index.php?series=231
+  name: JST
+  part_number: BM09B-SRSS-TB
 markdown_full: '[electronic_header_1_mm_jst_sh_9_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount)<br>[hjsh9psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount)<br>[Electronic
-    Header 1 Mm Jst Sh 9 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount)<br><br>[JST
-    - BM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM09B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM09B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM09B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM09B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM09B-SRSS-TB)<br>'
+  Header 1 Mm Jst Sh 9 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount)<br><br>[JST
+  - BM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231) [(L)  ](https://www.lcsc.com/search?q=BM09B-SRSS-TB)[(D)  ](https://www.digikey.com/en/products?keywords=BM09B-SRSS-TB)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=BM09B-SRSS-TB)[(N)  ](https://www.newark.com/search?st=BM09B-SRSS-TB)[(SZ)  ](https://so.szlcsc.com/global.html?k=BM09B-SRSS-TB)<br>'
 markdown_short: '[electronic_header_1_mm_jst_sh_9_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount)<br><br>[JST
-    - BM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)'
+  - BM09B-SRSS-TB](https://www.jst-mfg.com/product/index.php?series=231)'
 md5: 3392cfc59fa2610bf5afa029c396cd3b
 md5_10: 3392cfc59f
 md5_10_upper: 3392CFC59F
@@ -87,10 +87,10 @@ size_only_numbers: '1'
 size_only_numbers_no_zeros: '1'
 size_upper: 1_MM_JST_SH
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x09_pin//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin
-    oomp_key: oomp_kicad_connector_conn_01x09_pin
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x09_pin//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x09_pin
+  oomp_key: oomp_kicad_connector_conn_01x09_pin
 type: header
 type_capital: Header
 type_first_letter: h

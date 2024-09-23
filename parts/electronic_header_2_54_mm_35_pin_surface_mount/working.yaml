@@ -24,21 +24,21 @@ description_or_color: '35'
 description_or_color_upper: '35'
 directory: parts/electronic_header_2_54_mm_35_pin_surface_mount
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C917645.html
-    name: LCSC
-    part_number: C917645
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C917645.html
+  name: LCSC
+  part_number: C917645
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left
-    note: source footprint kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left
-    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hi135psm_electronic_header_2_54_mm_35_pin_surface_mount//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hi135psm_electronic_header_2_54_mm_35_pin_surface_mount
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hi135psm_electronic_header_2_54_mm_35_pin_surface_mount
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left
+  note: source footprint kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left
+  oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x35_p2_54mm_vertical_smd_pin1left
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_hi135psm_electronic_header_2_54_mm_35_pin_surface_mount//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hi135psm_electronic_header_2_54_mm_35_pin_surface_mount
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hi135psm_electronic_header_2_54_mm_35_pin_surface_mount
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount
 id: electronic_header_2_54_mm_35_pin_surface_mount
 id_no_class: header_2_54_mm_35_pin_surface_mount
@@ -53,10 +53,10 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_35_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount)<br>[hi135psm](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount)<br>[Electronic
-    Header 2 54 Mm 35 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount)<br>[LCSC
-    - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+  Header 2 54 Mm 35 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount)<br>[LCSC
+  - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
 markdown_short: '[electronic_header_2_54_mm_35_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_35_pin_surface_mount)<br>[LCSC
-    - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
+  - C917645<br>](https://lcsc.com/product-detail/C917645.html)<br>'
 md5: c4c6a36cc61ac40912323b923cf47c80
 md5_10: c4c6a36cc6
 md5_10_upper: C4C6A36CC6
@@ -97,10 +97,10 @@ size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
 size_upper: 2_54_MM
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x35_pin//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x35_pin
-    oomp_key: oomp_kicad_connector_conn_01x35_pin
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x35_pin//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x35_pin
+  oomp_key: oomp_kicad_connector_conn_01x35_pin
 type: header
 type_capital: Header
 type_first_letter: h

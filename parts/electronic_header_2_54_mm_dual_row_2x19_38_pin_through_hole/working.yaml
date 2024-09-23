@@ -24,14 +24,14 @@ description_or_color: 22k
 description_or_color_upper: 22K
 directory: parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C2333.html
-    name: LCSC
-    part_number: C2333
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C213462.html
-    name: LCSC
-    part_number: C213462
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C2333.html
+  name: LCSC
+  part_number: C2333
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C213462.html
+  name: LCSC
+  part_number: C213462
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole
 id: electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole
 id_no_class: header_2_54_mm_dual_row_2x19_38_pin_through_hole
@@ -46,10 +46,10 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole)<br>[hi12x19pth](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole)<br>[Electronic
-    Header 2 54 Mm Dual Row 2X19 38 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole)<br>[LCSC
-    - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>'
+  Header 2 54 Mm Dual Row 2X19 38 Pin Through Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole)<br>[LCSC
+  - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>'
 markdown_short: '[electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_through_hole)<br>[LCSC
-    - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>'
+  - C2333<br>](https://lcsc.com/product-detail/C2333.html)[LCSC - C213462<br>](https://lcsc.com/product-detail/C213462.html)<br>'
 md5: caf82789868cf6a78d8976270dbc2f0e
 md5_10: caf8278986
 md5_10_upper: CAF8278986
@@ -90,10 +90,10 @@ size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
 size_upper: 2_54_MM_DUAL_ROW
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x19_odd_even//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x19_odd_even
-    oomp_key: oomp_kicad_connector_generic_conn_02x19_odd_even
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_generic_conn_02x19_odd_even//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_generic_conn_02x19_odd_even
+  oomp_key: oomp_kicad_connector_generic_conn_02x19_odd_even
 type: header
 type_capital: Header
 type_first_letter: h

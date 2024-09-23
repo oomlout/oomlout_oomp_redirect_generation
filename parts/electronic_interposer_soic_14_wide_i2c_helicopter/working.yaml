@@ -9,9 +9,9 @@ color_first_letter: ''
 color_first_letter_upper: ''
 color_upper: ''
 description: An interposer between an i2c chip and a soic_14_wide package, The pins
-    are numbered in the reverse order of being expected because the footprint is used
-    as a mirror image, ie. it is the chip rather than a chuip being placed on it.
-    This is the helicopter side (the side with the chips on it)
+  are numbered in the reverse order of being expected because the footprint is used
+  as a mirror image, ie. it is the chip rather than a chuip being placed on it. This
+  is the helicopter side (the side with the chips on it)
 description_extra: helicopter
 description_extra_capital: Helicopter
 description_extra_first_letter: h
@@ -29,16 +29,16 @@ description_or_color_upper: '2'
 directory: parts/electronic_interposer_soic_14_wide_i2c_helicopter
 distributors: []
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_14w_7_5x9mm_p1_27mm//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_14w_7_5x9mm_p1_27mm
-    note: source footprint kicad_package_so_soic_14w_7_5x9mm_p1_27mm
-    oomp_key: oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_14w_7_5x9mm_p1_27mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_14w_7_5x9mm_p1_27mm
+  note: source footprint kicad_package_so_soic_14w_7_5x9mm_p1_27mm
+  oomp_key: oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter
 id: electronic_interposer_soic_14_wide_i2c_helicopter
 id_no_class: interposer_soic_14_wide_i2c_helicopter
@@ -53,7 +53,7 @@ manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_interposer_soic_14_wide_i2c_helicopter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)<br>[insoic14wi2cheli](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)<br>[Electronic
-    Interposer Soic 14 Wide I2C Helicopter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)<br><br>'
+  Interposer Soic 14 Wide I2C Helicopter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)<br><br>'
 markdown_short: '[electronic_interposer_soic_14_wide_i2c_helicopter](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)<br><br>'
 md5: 67456919c33f39dd13824a5f4470e6b9
 md5_10: 67456919c3
@@ -87,62 +87,62 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_upper: ''
 pins:
-    pin_1:
-        name: pin_14
-        number: '1'
-        type: power
-    pin_10:
-        name: cs
-        number: '10'
-        type: signal
-    pin_11:
-        name: scl_3v3
-        number: '11'
-        type: signal
-    pin_12:
-        name: sda_3v3
-        number: '12'
-        type: signal
-    pin_13:
-        name: 3v3
-        number: '13'
-        type: signal
-    pin_14:
-        name: gnd
-        number: '14'
-        type: signal
-    pin_2:
-        name: pin_13
-        number: '2'
-        type: power
-    pin_3:
-        name: pin_12
-        number: '3'
-        type: signal
-    pin_4:
-        name: pin_11
-        number: '4'
-        type: signal
-    pin_5:
-        name: pin_10
-        number: '5'
-        type: signal
-    pin_6:
-        name: pin_9
-        number: '6'
-        type: signal
-    pin_7:
-        name: pin_8
-        number: '7'
-        type: signal
-    pin_8:
-        name: pin_7
-        number: '8'
-        type: signal
-    pin_9:
-        name: address
-        number: '9'
-        type: signal
+  pin_1:
+    name: pin_14
+    number: '1'
+    type: power
+  pin_10:
+    name: cs
+    number: '10'
+    type: signal
+  pin_11:
+    name: scl_3v3
+    number: '11'
+    type: signal
+  pin_12:
+    name: sda_3v3
+    number: '12'
+    type: signal
+  pin_13:
+    name: 3v3
+    number: '13'
+    type: signal
+  pin_14:
+    name: gnd
+    number: '14'
+    type: signal
+  pin_2:
+    name: pin_13
+    number: '2'
+    type: power
+  pin_3:
+    name: pin_12
+    number: '3'
+    type: signal
+  pin_4:
+    name: pin_11
+    number: '4'
+    type: signal
+  pin_5:
+    name: pin_10
+    number: '5'
+    type: signal
+  pin_6:
+    name: pin_9
+    number: '6'
+    type: signal
+  pin_7:
+    name: pin_8
+    number: '7'
+    type: signal
+  pin_8:
+    name: pin_7
+    number: '8'
+    type: signal
+  pin_9:
+    name: address
+    number: '9'
+    type: signal
 short_code: insoic14wi2cheli
 short_code_upper: INSOIC14WI2CHELI
 short_name: ''

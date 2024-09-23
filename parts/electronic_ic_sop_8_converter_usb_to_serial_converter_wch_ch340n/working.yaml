@@ -24,10 +24,10 @@ description_or_color: 'C '
 description_or_color_upper: 'C '
 directory: parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
 distributors:
--   id: distributor_lcsc
-    link: https://lcsc.com/product-detail/C2977777.html
-    name: LCSC
-    part_number: C2977777
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C2977777.html
+  name: LCSC
+  part_number: C2977777
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
 id: electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
 id_no_class: ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
@@ -42,10 +42,10 @@ manufacturer_first_letter_upper: W
 manufacturer_upper: WCH
 manufacturers: []
 markdown_full: '[electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n)<br>[isp8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n)<br>[Electronic
-    Ic Sop 8 Converter Usb To Serial Converter Wch Ch340N](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n)<br>[LCSC
-    - C2977777<br>](https://lcsc.com/product-detail/C2977777.html)<br>'
+  Ic Sop 8 Converter Usb To Serial Converter Wch Ch340N](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n)<br>[LCSC
+  - C2977777<br>](https://lcsc.com/product-detail/C2977777.html)<br>'
 markdown_short: '[electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n)<br>[LCSC
-    - C2977777<br>](https://lcsc.com/product-detail/C2977777.html)<br>'
+  - C2977777<br>](https://lcsc.com/product-detail/C2977777.html)<br>'
 md5: ad943042c130da51dd0876d34a6d99a2
 md5_10: ad943042c1
 md5_10_upper: AD943042C1
@@ -78,38 +78,38 @@ part_number_first_letter: c
 part_number_first_letter_upper: C
 part_number_upper: CH340N
 pins:
-    pin_1:
-        name: ud_positive
-        number: '1'
-        type: signal
-    pin_2:
-        name: ud_negative
-        number: '2'
-        type: signal
-    pin_3:
-        name: gnd
-        number: '3'
-        type: signal
-    pin_4:
-        name: rts
-        number: '4'
-        type: signal
-    pin_5:
-        name: vcc
-        number: '5'
-        type: signal
-    pin_6:
-        name: txd
-        number: '6'
-        type: gnd
-    pin_7:
-        name: rxd
-        number: '7'
-        type: signal
-    pin_8:
-        name: v3
-        number: '8'
-        type: signal
+  pin_1:
+    name: ud_positive
+    number: '1'
+    type: signal
+  pin_2:
+    name: ud_negative
+    number: '2'
+    type: signal
+  pin_3:
+    name: gnd
+    number: '3'
+    type: signal
+  pin_4:
+    name: rts
+    number: '4'
+    type: signal
+  pin_5:
+    name: vcc
+    number: '5'
+    type: signal
+  pin_6:
+    name: txd
+    number: '6'
+    type: gnd
+  pin_7:
+    name: rxd
+    number: '7'
+    type: signal
+  pin_8:
+    name: v3
+    number: '8'
+    type: signal
 short_code: isp8
 short_code_upper: ISP8
 short_name: usb to serial converter (ch340n)

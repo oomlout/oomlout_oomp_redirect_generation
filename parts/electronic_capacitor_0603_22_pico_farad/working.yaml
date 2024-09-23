@@ -26,16 +26,16 @@ directory: parts/electronic_capacitor_0603_22_pico_farad
 distributors: []
 filter: ''
 footprint:
--   directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric
-    note: source footprint kicad_capacitor_smd_c_0603_1608metric
-    oomp_key: oomp_kicad_capacitor_smd_c_0603_1608metric
--   directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c6pf22_electronic_capacitor_0603_22_pico_farad//working/working.kicad_mod
-    index: 1
-    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c6pf22_electronic_capacitor_0603_22_pico_farad
-    note: oomp generated footprint
-    oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c6pf22_electronic_capacitor_0603_22_pico_farad
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_capacitor_smd_c_0603_1608metric//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_capacitor_smd_c_0603_1608metric
+  note: source footprint kicad_capacitor_smd_c_0603_1608metric
+  oomp_key: oomp_kicad_capacitor_smd_c_0603_1608metric
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_c6pf22_electronic_capacitor_0603_22_pico_farad//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_c6pf22_electronic_capacitor_0603_22_pico_farad
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c6pf22_electronic_capacitor_0603_22_pico_farad
 from_yaml: false
 github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad
 id: electronic_capacitor_0603_22_pico_farad
@@ -50,21 +50,21 @@ manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
 manufacturer_upper: ''
 manufacturers:
--   id: manufacturer_hctl
-    link: ''
-    name: HCTL
-    part_number: TC-3601L-2.5-260G
--   id: manufacturer_yageo
-    link: https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220
-    name: Yageo
-    part_number: CC0603JRNPO9BN220
+- id: manufacturer_hctl
+  link: ''
+  name: HCTL
+  part_number: TC-3601L-2.5-260G
+- id: manufacturer_yageo
+  link: https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220
+  name: Yageo
+  part_number: CC0603JRNPO9BN220
 markdown_full: '[electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad)<br>[c6pf22](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad)<br>[Electronic
-    Capacitor 0603 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad)<br><br>[HCTL
-    - TC-3601L-2.5-260G]() [(L)  ](https://www.lcsc.com/search?q=TC-3601L-2.5-260G)[(D)  ](https://www.digikey.com/en/products?keywords=TC-3601L-2.5-260G)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TC-3601L-2.5-260G)[(N)  ](https://www.newark.com/search?st=TC-3601L-2.5-260G)[(SZ)  ](https://so.szlcsc.com/global.html?k=TC-3601L-2.5-260G)<br>[Yageo
-    - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220)
-    [(L)  ](https://www.lcsc.com/search?q=CC0603JRNPO9BN220)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603JRNPO9BN220)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603JRNPO9BN220)[(N)  ](https://www.newark.com/search?st=CC0603JRNPO9BN220)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603JRNPO9BN220)<br>'
+  Capacitor 0603 22 Pico Farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad)<br><br>[HCTL
+  - TC-3601L-2.5-260G]() [(L)  ](https://www.lcsc.com/search?q=TC-3601L-2.5-260G)[(D)  ](https://www.digikey.com/en/products?keywords=TC-3601L-2.5-260G)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=TC-3601L-2.5-260G)[(N)  ](https://www.newark.com/search?st=TC-3601L-2.5-260G)[(SZ)  ](https://so.szlcsc.com/global.html?k=TC-3601L-2.5-260G)<br>[Yageo
+  - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220)
+  [(L)  ](https://www.lcsc.com/search?q=CC0603JRNPO9BN220)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603JRNPO9BN220)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603JRNPO9BN220)[(N)  ](https://www.newark.com/search?st=CC0603JRNPO9BN220)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603JRNPO9BN220)<br>'
 markdown_short: '[electronic_capacitor_0603_22_pico_farad](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_0603_22_pico_farad)<br><br>[HCTL
-    - TC-3601L-2.5-260G]()[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220)'
+  - TC-3601L-2.5-260G]()[Yageo - CC0603JRNPO9BN220](https://www.yageo.com/en/Chart/Download/pdf/CC0603JRNPO9BN220)'
 md5: ed43fc9f13c024e0a26ef47e97a61fd1
 md5_10: ed43fc9f13
 md5_10_upper: ED43FC9F13
@@ -109,10 +109,10 @@ smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
 symbol:
--   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
-    index: 0
-    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
-    oomp_key: oomp_kicad_device_c
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_c
+  oomp_key: oomp_kicad_device_c
 type: capacitor
 type_capital: Capacitor
 type_first_letter: c
