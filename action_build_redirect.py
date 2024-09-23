@@ -4,7 +4,7 @@ import os
 def main(**kwargs):
 
     import action_build_oomp
-    #action_build_oomp.main(**kwargs)
+    action_build_oomp.main(**kwargs)
 
     file_oomp_pickle = "temporary/parts.pickle"
     #make it if it doesn't exist in one line
@@ -29,6 +29,7 @@ def main(**kwargs):
     ids.append("short_code")
     ids.append("md5_6")
     ids.append("md5_6_alpha")
+    ids.append("part_number")
 
     redirects = []
 
