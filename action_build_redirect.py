@@ -38,7 +38,8 @@ def main(**kwargs):
                         "title": title
                     }
                     import copy
-                    redirects.append(copy.deepcopy(redirect))
+                    if short_link != "":
+                        redirects.append(copy.deepcopy(redirect))
                 except Exception as e:
                     print(f"Error with part {part_id}")
                     print(e)
