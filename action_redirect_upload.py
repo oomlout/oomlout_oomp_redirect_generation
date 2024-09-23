@@ -9,6 +9,14 @@ delay_long = 5
 #make a main with kwargs
 def main(**kwargs):
     directory_oomp_redirect = "redirect"
+    #make if not exists
+    if not os.path.exists(directory_oomp_redirect):
+        os.makedirs(directory_oomp_redirect)
+    directory_oomp_redirect_split = "temporary"
+    #make if not exists
+    if not os.path.exists(directory_oomp_redirect_split):
+        os.makedirs(directory_oomp_redirect_split)
+
     
     yourl_admin = "http://oom.lt/admin"
 
@@ -22,10 +30,30 @@ def main(**kwargs):
     yourl_bulk_upload = "https://oom.lt/admin/plugins.php?page=vaughany_bias"
     os.system(f"start {yourl_bulk_upload}")
 
+    file_redirect = f"{directory_oomp_redirect}\\redirect_1.csv"
+    #load the file
+    count = 1
+    index = 1
+    
+    with open(file_redirect, 'r') as f:
+        redirect_split_base = f"{directory_oomp_redirect_split}\\redirect_{index}.csv"
+        for line in f:
+            if count == 1:
+                with open(redirect_split_base, 'w') as f_split:
+                    f_split.write(line)
+            else:
+                with open(redirect_split_base, 'a') as f_split:
+                    f_split.write(line)
+            count += 1
+            if count > 500:
+                count = 1
+                index += 1
+                redirect_split_base = f"{directory_oomp_redirect_split}\\redirect_{index}.csv"
+
     index = 1
     run = True
     while run:
-        file_redirect = f"{directory_oomp_redirect}\\redirect_{index}.csv"
+        file_redirect = f"{directory_oomp_redirect_split}\\redirect_{index}.csv"
         if os.path.exists(file_redirect):
             os.system(f"start {yourl_bulk_upload}")
             time.sleep(delay_long)
