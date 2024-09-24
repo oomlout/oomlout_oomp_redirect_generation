@@ -2,6 +2,8 @@ import time
 import pyautogui
 import clipboard
 
+import os
+
 delay_shortest = 0.25
 delay_short = 2
 delay_long = 5
@@ -21,7 +23,7 @@ def main(**kwargs):
     yourl_admin = "http://oom.lt/admin"
 
     #open using start
-    import os
+
     os.system(f"start {yourl_admin}")
 
     #prompt to login and wait
