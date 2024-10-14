@@ -48,8 +48,11 @@ def main(**kwargs):
                     f_split.write(line)
             count += 1
             if count > 500:
+                #make a string variable with tthe count value                
                 count = 1
                 index += 1
+                status_string = f"writing file {index}"
+                print(status_string) 
                 redirect_split_base = f"{directory_oomp_redirect_split}\\redirect_{index}.csv"
 
     index = 1

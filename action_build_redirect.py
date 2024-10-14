@@ -31,6 +31,8 @@ def main(**kwargs):
     ids.append("md5_6_alpha")
     ids.append("part_number")
     ids.append("bip_39_word_no_space_2")
+    ids.append("bip_39_word_underscore_2")
+    ids.append("bip_39_word_dash_2")
     ids.append("bip_39_word_no_space_3")
 
 
