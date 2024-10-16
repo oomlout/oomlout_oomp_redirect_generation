@@ -3,8 +3,11 @@ import os
 
 def main(**kwargs):
 
+    force_data_update = False
+
     import action_build_oomp
-    action_build_oomp.main(**kwargs)
+    if force_data_update:
+        action_build_oomp.main(**kwargs)
 
     file_oomp_pickle = "temporary/parts.pickle"
     #make it if it doesn't exist in one line
@@ -34,6 +37,9 @@ def main(**kwargs):
     ids.append("bip_39_word_underscore_2")
     ids.append("bip_39_word_dash_2")
     ids.append("bip_39_word_no_space_3")
+    ids.append("bip_39_word_underscore_3")
+    ids.append("bip_39_word_dash_3")
+    
 
 
     redirects = []
