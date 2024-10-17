@@ -1,9 +1,13 @@
 import os
-
+import time
 
 def main(**kwargs):
 
+    #store start time
+    time_start = time.time()
+
     force_data_update = False
+    #force_data_update = True
 
     import action_build_oomp
     if force_data_update:
@@ -39,6 +43,8 @@ def main(**kwargs):
     ids.append("bip_39_word_no_space_3")
     ids.append("bip_39_word_underscore_3")
     ids.append("bip_39_word_dash_3")
+    for i in range(1, 10):
+        ids.append(f"link_short_{i}")
     
 
 
@@ -51,6 +57,8 @@ def main(**kwargs):
                 try:
                     short_link = part[id]
                     url = part["link_main"]
+                    if "link_redirect" in part:
+                        url = part["link_redirect"]
                     title = part["name"]
                     redirect = {
                         "short_link": short_link,
@@ -94,8 +102,13 @@ def main(**kwargs):
         file.write(line)
         index += 1
     file.close()
-        
-        
+    
+    time_end = time.time()
+    time_taken = time_end - time_start    
+    time_taken_minute_second = time.strftime("%M:%S", time.gmtime(time_taken))
+    print(f"Time taken: {time_taken_minute_second}")
+
+    
         
 
     
