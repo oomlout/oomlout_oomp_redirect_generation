@@ -43,6 +43,7 @@ def main(**kwargs):
     ids.append("bip_39_word_no_space_3")
     ids.append("bip_39_word_underscore_3")
     ids.append("bip_39_word_dash_3")
+    ids.append("link_buy")
     for i in range(1, 10):
         ids.append(f"link_short_{i}")
     
@@ -55,7 +56,7 @@ def main(**kwargs):
         for id in ids:
             if id in part:
                 try:
-                    short_link = part[id]
+                    short_link = part[id]                    
                     url = part["link_main"]
                     if "link_redirect" in part:
                         url = part["link_redirect"]
@@ -68,6 +69,11 @@ def main(**kwargs):
                     import copy
                     if short_link != "":
                         redirects.append(copy.deepcopy(redirect))
+                        if "link_buy" in part:
+                            redirect = copy.deepcopy(redirect)                            
+                            redirect["url"] = part["link_buy"]
+                            redirect["short_link"] = f"buy_{short_link}"
+                            redirects.append(copy.deepcopy(redirect))
                 except Exception as e:
                     print(f"Error with part {part_id}")
                     print(e)
