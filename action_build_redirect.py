@@ -7,7 +7,7 @@ def main(**kwargs):
     time_start = time.time()
 
     force_data_update = False
-    #force_data_update = True
+    force_data_update = True
 
     import action_build_oomp
     if force_data_update:
@@ -34,6 +34,7 @@ def main(**kwargs):
     ids = []
     ids.append("id")
     ids.append("short_code")
+    ids.append("oomlout_short_code")
     ids.append("md5_6")
     ids.append("md5_6_alpha")
     ids.append("part_number")
