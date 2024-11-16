@@ -75,6 +75,25 @@ def main(**kwargs):
                             redirect["url"] = part["link_buy"]
                             redirect["short_link"] = f"buy_{short_link}"
                             redirects.append(copy.deepcopy(redirect))
+                        if "link_github" in part:
+                            redirect = copy.deepcopy(redirect)
+                            redirect["url"] = part["link_github"]
+                            redirect["short_link"] = f"gh_{short_link}"
+                            redirects.append(copy.deepcopy(redirect))
+                        if "link_buy_1" in part:
+                            redirect = copy.deepcopy(redirect)
+                            redirect["url"] = part["link_buy_1"]
+                            redirect["short_link"] = f"buy_{short_link}"
+                            redirects.append(copy.deepcopy(redirect))
+                        for i in range(2, 10):
+                            if f"link_short_{i}" in part:
+                                link = part[f"link_buy_{i}"]
+                                if link != "":
+                                    redirect = copy.deepcopy(redirect)
+                                    redirect["url"] = link
+                                    redirect["short_link"] = f"buy{i}_{short_link}s"
+                                    redirects.append(copy.deepcopy(redirect))
+                    
                 except Exception as e:
                     print(f"Error with part {part_id}")
                     print(e)

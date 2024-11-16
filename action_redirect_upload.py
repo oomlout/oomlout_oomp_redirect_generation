@@ -26,8 +26,33 @@ def main(**kwargs):
 
     os.system(f"start {yourl_admin}")
 
-    #prompt to login and wait
-    input("Press enter when you have logged in")
+    #try to login
+    #wait 10 seconds
+    time.sleep(10)
+
+    #tab twoce
+    pyautogui.hotkey('tab')
+    time.sleep(delay_shortest)
+    pyautogui.hotkey('tab')
+    time.sleep(delay_shortest)
+
+    #press enter
+    pyautogui.hotkey('enter')
+    time.sleep(10)
+
+    #select all
+    pyautogui.hotkey('ctrl', 'a')
+    time.sleep(delay_short)
+    #copy
+    pyautogui.hotkey('ctrl', 'c')
+    time.sleep(delay_short)
+    #check for
+    string_check = "Admin interface"
+    if string_check in clipboard.paste():
+        print("Logged in")
+    else:
+        #prompt to login and wait
+        input("Press enter when you have logged in")
 
     yourl_bulk_upload = "https://oom.lt/admin/plugins.php?page=vaughany_bias"
     os.system(f"start {yourl_bulk_upload}")
