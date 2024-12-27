@@ -93,7 +93,26 @@ def main(**kwargs):
                                     redirect["url"] = link
                                     redirect["short_link"] = f"buy{i}_{short_link}s"
                                     redirects.append(copy.deepcopy(redirect))
-                    
+                        distributors = ["orbital_fasteners","ocado","amazon","aliexpress"]
+                        distributor_short = {}
+                        distributor_short["orbital_fasteners"] = "of"
+                        distributor_short["ocado"] = "oc"
+                        distributor_short["amazon"] = "am"
+                        distributor_short["aliexpress"] = "ae"
+                        for distributor in distributors:
+                            if f"link_{distributor}" in part:
+                                link = part[f"link_distributor_{distributor}"]
+                                if link != "":
+                                    redirect = copy.deepcopy(redirect)
+                                    redirect["url"] = link
+                                    redirect["short_link"] = f"d{distributor_short[distributor]}_{short_link}"
+                                    redirects.append(copy.deepcopy(redirect))
+                                    redirect = copy.deepcopy(redirect)
+                                    redirect["url"] = link
+                                    redirect["short_link"] = f"d_{distributor}_{short_link}"
+                                    redirects.append(copy.deepcopy(redirect))
+
+
                 except Exception as e:
                     print(f"Error with part {part_id}")
                     print(e)
