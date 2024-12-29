@@ -81,7 +81,8 @@ def main(**kwargs):
                 #test if it has already been uploaded
                 if line in uploaded_lines:
                     pass
-                    print(f"Skipping line {count} as it has already been uploaded")                    
+                    #print(f"Skipping line {line} as it has already been uploaded")                    
+                    #print(",", end="", flush=True)
                 else:
                     if count == 1:
                         with open(redirect_split_base, 'w') as f_split:
@@ -89,6 +90,7 @@ def main(**kwargs):
                     else:
                         with open(redirect_split_base, 'a') as f_split:
                             f_split.write(line)
+                    #print(".", end="", flush=True)  
                     count += 1
                     if count > 500:
                         #make a string variable with tthe count value                
@@ -101,8 +103,8 @@ def main(**kwargs):
     index = 1
     run = True
     while run:
-        file_redirect = f"{directory_oomp_redirect_split}\\redirect_{index}.csv"
-        if os.path.exists(file_redirect):
+        file_redirect_current = f"{directory_oomp_redirect_split}\\redirect_{index}.csv"
+        if os.path.exists(file_redirect_current):
             os.system(f"start {yourl_bulk_upload}")
             time.sleep(delay_long)
             #tab 9 times
@@ -114,7 +116,7 @@ def main(**kwargs):
             time.sleep(delay_short)
             #type file path
             #get full filename for file_redirect
-            file_redirect_full = os.path.abspath(file_redirect)
+            file_redirect_full = os.path.abspath(file_redirect_current)
             pyautogui.write(file_redirect_full)
             time.sleep(delay_short)
             #enter
@@ -136,7 +138,7 @@ def main(**kwargs):
             #check for 
             string_check = "URLs imported"
             if string_check in clipboard.paste():
-                print(f"File {file_redirect} imported")
+                print(f"File {file_redirect_current} imported")
             else:
                 #wait for input
                 input("Press enter when you have resolved the issue")
@@ -157,20 +159,24 @@ def main(**kwargs):
         #read all lines into an array
         lines = []
         
-        with open(file_redirect, 'r') as f:
-            for line in f:
-                lines.append(line)
-        lines_uploaded = []
-        with open(file_redirect_uploaded, 'w') as f:
-            for line in lines:
+        if os.path.exists(file_redirect):
+            print(f"    File {file_redirect} exists")   
+            with open(file_redirect, 'r') as f:
+                for line in f:
+                    lines.append(line)
+            lines_uploaded = []
+            with open(file_redirect_uploaded, 'w') as f:
+                for line in lines:
+                    lines_uploaded.append(line)
+            #if line isn't in lines_uploaded add it
+            if not line in lines_uploaded:
                 lines_uploaded.append(line)
-        #if line isn't in lines_uploaded add it
-        if not line in lines_uploaded:
-            lines_uploaded.append(line)
-        #write to file
-        with open(file_redirect_uploaded, 'w') as f:
-            for line in lines_uploaded:
-                f.write(line)
+            #write to file
+            with open(file_redirect_uploaded, 'w') as f:
+                for line in lines_uploaded:
+                    f.write(line)
+        else:
+            print(f"    File {file_redirect} does not exist")
 
         
     #delete the redirect csvs in temporary
