@@ -78,6 +78,7 @@ def main(**kwargs):
                     uploaded_lines.append(line)
         with open(file_redirect, 'r') as f:
             redirect_split_base = f"{directory_oomp_redirect_split}\\redirect_{index}.csv"
+            print("Checking for duplicates")
             for line in f:
                 #test if it has already been uploaded
                 if line in uploaded_lines:
@@ -102,6 +103,10 @@ def main(**kwargs):
                         status_string = f"writing file {index}"
                         print(status_string) 
                         redirect_split_base = f"{directory_oomp_redirect_split}\\redirect_{index}.csv"
+                    count_progress += 1
+                    #print(f"Skipping line {line} as it has already been uploaded")                    
+                    if count_progress % 500 == 0:
+                        print(",", end="", flush=True)
 
     index = 1
     run = True
