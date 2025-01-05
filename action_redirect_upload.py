@@ -66,6 +66,7 @@ def main(**kwargs):
     #load the file
     count = 1
     index = 1
+    count_progress = 1
     
     #spliting redirect.csv_1 and checking for duplicates
     if True:
@@ -81,8 +82,10 @@ def main(**kwargs):
                 #test if it has already been uploaded
                 if line in uploaded_lines:
                     pass
+                    count_progress += 1
                     #print(f"Skipping line {line} as it has already been uploaded")                    
-                    #print(",", end="", flush=True)
+                    if count_progress % 500 == 0:
+                        print(",", end="", flush=True)
                 else:
                     if count == 1:
                         with open(redirect_split_base, 'w') as f_split:
